@@ -1,0 +1,12 @@
+{
+  "Reagent-1780907450061": {
+    "type": "Reagent",
+    "alias": "Kit_003_DaBead Plasmid Prep Kit Mini/Midi/Maxi",
+    "descriptions": [
+      "Biofact_PM751-100"
+    ],
+    "sources": [
+      "001_WD040_Parallel_Cell_CultureFermentation_Design.labnote.md"
+    ]
+  }
+}

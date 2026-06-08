@@ -1,0 +1,891 @@
+{
+  "Jephyr Tip_001": {
+    "type": "Labware",
+    "alias": "Jephyr Tip_001_Pipette Tips, 200 μl, Clear, Nested-tray",
+    "descriptions": [
+      "Revvity_6072502"
+    ]
+  },
+  "Janus Tip_001": {
+    "type": "Labware",
+    "alias": "Janus Tip_001_Pipette Conductive Filter Tips, 25 µl, Pre-sterilized",
+    "descriptions": [
+      "Revvity_6076161"
+    ]
+  },
+  "Janus Tip_002": {
+    "type": "Labware",
+    "alias": "Janus Tip_002_Pipette Conductive Filter Tips, 175 µl, Pre-sterilized",
+    "descriptions": [
+      "Revvity_6076561"
+    ]
+  },
+  "Janus Tip_003": {
+    "type": "Labware",
+    "alias": "Janus Tip_003_Pipette Conductive Filter Tips, 900 µl, Pre-sterilized",
+    "descriptions": [
+      "Revvity_6001256"
+    ]
+  },
+  "Janus Tip_004": {
+    "type": "Labware",
+    "alias": "Janus Tip_004_Pipette Conductive Filter Tips, 900 µl, Wide-Bore, Pre-sterilized",
+    "descriptions": [
+      "Revvity_6001200"
+    ]
+  },
+  "Opentrons Tip_001": {
+    "type": "Labware",
+    "alias": "Opentrons Tip_001_OT-2 Tips, 20 µL",
+    "descriptions": [
+      "Opentrons_999-00011"
+    ]
+  },
+  "Opentrons Tip_002": {
+    "type": "Labware",
+    "alias": "Opentrons Tip_002_OT-2 Tips, 300 µL",
+    "descriptions": [
+      "Opentrons_999-00012"
+    ]
+  },
+  "Opentrons Tip_003": {
+    "type": "Labware",
+    "alias": "Opentrons Tip_003_OT-2 Tips, 1000 µL",
+    "descriptions": [
+      "Opentrons_999-00013"
+    ]
+  },
+  "Electronic Multi-channel Pipette Tip_001": {
+    "type": "Labware",
+    "alias": "Electronic Multi-channel Pipette Tip_001_12.5 μl GRIPTIP, Non-Sterile, 5 inserts of 384 Tips, GREEN CHOICE",
+    "descriptions": [
+      "Integra_4412"
+    ]
+  },
+  "Electronic Multi-channel Pipette Tip_002": {
+    "type": "Labware",
+    "alias": "Electronic Multi-channel Pipette Tip_002_300 μl GRIPTIP, Non-Sterile, 5 inserts of 96 Tips, GREEN CHOICE",
+    "descriptions": [
+      "Integra_4432"
+    ]
+  },
+  "Electronic Multi-channel Pipette Tip_003": {
+    "type": "Labware",
+    "alias": "Electronic Multi-channel Pipette Tip_003_1250 μl GRIPTIP, Non-Sterile, 5 inserts of 96 Tips, GREEN CHOICE",
+    "descriptions": [
+      "Integra_4442"
+    ]
+  },
+  "Manual Tip_001": {
+    "type": "Labware",
+    "alias": "Manual Tip_001_epT.I.P.S. Reloads 0.1-10 μL",
+    "descriptions": [
+      "Eppendorf_0030073371"
+    ]
+  },
+  "Manual Tip_002": {
+    "type": "Labware",
+    "alias": "Manual Tip_002_epT.I.P.S. Reloads 2-200 μL",
+    "descriptions": [
+      "Eppendorf_0030073436"
+    ]
+  },
+  "Manual Tip_003": {
+    "type": "Labware",
+    "alias": "Manual Tip_003_epT.I.P.S. Reloads 50-1000 μL",
+    "descriptions": [
+      "Eppendorf_0030073479"
+    ]
+  },
+  "Manual Tip_004": {
+    "type": "Labware",
+    "alias": "Manual Tip_004_epT.I.P.S. Standard, Eppendorf Quality, 0.1-5 mL, 120 mm",
+    "descriptions": [
+      "Eppendorf_0030000978"
+    ]
+  },
+  "Manual Tip_005": {
+    "type": "Labware",
+    "alias": "Manual Tip_005_TipOne Filter Refill 0.1 - 10 μL graduated, sterile",
+    "descriptions": [
+      "Excella_9104020001"
+    ]
+  },
+  "Manual Tip_006": {
+    "type": "Labware",
+    "alias": "Manual Tip_006_TipOne Filter Refill 1 - 200 μL graduated, sterile",
+    "descriptions": [
+      "Excella_9104020087"
+    ]
+  },
+  "Manual Tip_007": {
+    "type": "Labware",
+    "alias": "Manual Tip_007_TipOne Filter Refill 100 - 1,000 μL sterile",
+    "descriptions": [
+      "Excella_9104020109"
+    ]
+  },
+  "Dispenser Tip_001": {
+    "type": "Labware",
+    "alias": "Dispenser Tip_001_Combitips advanced 0.1 mL",
+    "descriptions": [
+      "Eppendorf_0030089405"
+    ]
+  },
+  "Dispenser Tip_002": {
+    "type": "Labware",
+    "alias": "Dispenser Tip_002_Combitips advanced 0.5 mL, biopur",
+    "descriptions": [
+      "Eppendorf_0030089634"
+    ]
+  },
+  "Dispenser Tip_003": {
+    "type": "Labware",
+    "alias": "Dispenser Tip_003_Combitips advanced 0.5 mL",
+    "descriptions": [
+      "Eppendorf_0030089421"
+    ]
+  },
+  "Dispenser Tip_004": {
+    "type": "Labware",
+    "alias": "Dispenser Tip_004_Combitips advanced 5 mL, biopur",
+    "descriptions": [
+      "Eppendorf_0030089669"
+    ]
+  },
+  "Dispenser Tip_005": {
+    "type": "Labware",
+    "alias": "Dispenser Tip_005_Combitips advanced 50 mL, biopur",
+    "descriptions": [
+      "Eppendorf_0030089693"
+    ]
+  },
+  "Serological Pipette_001": {
+    "type": "Labware",
+    "alias": "Serological Pipette_001_10mL Serological Pipet",
+    "descriptions": [
+      "Falcon_357551"
+    ]
+  },
+  "Serological Pipette_002": {
+    "type": "Labware",
+    "alias": "Serological Pipette_002_25mL Serological Pipet",
+    "descriptions": [
+      "Falcon_357535"
+    ]
+  },
+  "Serological Pipette_003": {
+    "type": "Labware",
+    "alias": "Serological Pipette_003_50ml Serological Pipette",
+    "descriptions": [
+      "SPL_91050"
+    ]
+  },
+  "Tube_001": {
+    "type": "Labware",
+    "alias": "Tube_001_Qubit Assay Tubes",
+    "descriptions": [
+      "Invitrogen_Q32856"
+    ]
+  },
+  "Tube_002": {
+    "type": "Labware",
+    "alias": "Tube_002_DNA LoBind Tubes, 1.5 mL",
+    "descriptions": [
+      "Eppendorf_0030108418"
+    ]
+  },
+  "Tube_003": {
+    "type": "Labware",
+    "alias": "Tube_003_0.9ml Dual-coded Tube, 96-format, External Thread, capped, racked",
+    "descriptions": [
+      "Azenta_68-1001-11"
+    ]
+  },
+  "Tube_004": {
+    "type": "Labware",
+    "alias": "Tube_004_Sterile External Cryovial, 1.2ml",
+    "descriptions": [
+      "CryoTain_SL.Via3301."
+    ]
+  },
+  "Tube_005": {
+    "type": "Labware",
+    "alias": "Tube_005_5 mL Round Bottom Polystyrene Test Tube, without Cap, Sterile",
+    "descriptions": [
+      "Falcon_352052"
+    ]
+  },
+  "Tube_006": {
+    "type": "Labware",
+    "alias": "Tube_006_Tube, PP, Transparent, 7ml, 13×100mm",
+    "descriptions": [
+      "대한과학_DM.Tub3707"
+    ]
+  },
+  "Tube_007": {
+    "type": "Labware",
+    "alias": "Tube_007_0.2 ml PCR 8-Tube Strips with attached Individual Caps, Natural",
+    "descriptions": [
+      "SSI_T1C-028-N"
+    ]
+  },
+  "Tube_008": {
+    "type": "Labware",
+    "alias": "Tube_008_Reaction Tubes, 1.5 ml, PP, natural",
+    "descriptions": [
+      "Greiner Bio-One_616201"
+    ]
+  },
+  "Tube_009": {
+    "type": "Labware",
+    "alias": "Tube_009_Safe-Lock Tubes,1.5 mL, amber",
+    "descriptions": [
+      "Eppendorf_0030120191"
+    ]
+  },
+  "Tube_010": {
+    "type": "Labware",
+    "alias": "Tube_010_Safe-Lock Tubes 2.0 mL",
+    "descriptions": [
+      "Eppendorf_0030120094"
+    ]
+  },
+  "Tube_011": {
+    "type": "Labware",
+    "alias": "Tube_011_Eppendorf Tubes 5.0 mL",
+    "descriptions": [
+      "Eppendorf_0030119401"
+    ]
+  },
+  "Tube_012": {
+    "type": "Labware",
+    "alias": "Tube_012_Eppendorf Tubes 5.0 mL, amber",
+    "descriptions": [
+      "Eppendorf_0030119452"
+    ]
+  },
+  "Tube_013": {
+    "type": "Labware",
+    "alias": "Tube_013_14ml Round-Bottom Tube, 17 X 100 mm",
+    "descriptions": [
+      "SPL_40014"
+    ]
+  },
+  "Tube_014": {
+    "type": "Labware",
+    "alias": "Tube_014_15 mL High-Clarity PP Conical Tube, 17 X 120 mm",
+    "descriptions": [
+      "Falcon_352096"
+    ]
+  },
+  "Tube_015": {
+    "type": "Labware",
+    "alias": "Tube_015_50 mL High-Clarity PP Conical Tube, 30 X 115 mm",
+    "descriptions": [
+      "Falcon_352070"
+    ]
+  },
+  "Tube_016": {
+    "type": "Labware",
+    "alias": "Tube_016_50ml Bioreactor",
+    "descriptions": [
+      "SPL_50351"
+    ]
+  },
+  "Vial_001": {
+    "type": "Labware",
+    "alias": "Vial_001_SureSTART Vial 0.4ML Clear PP Screw 9mm Short Insert",
+    "descriptions": [
+      "Thermo Fisher Scientific_6ESV9-04PP"
+    ]
+  },
+  "Vial_002": {
+    "type": "Labware",
+    "alias": "Vial_002_Vial insert, 300 µL, polypropylene, conical with polymer feet",
+    "descriptions": [
+      "Agilent_5182-0549"
+    ]
+  },
+  "Vial_003": {
+    "type": "Labware",
+    "alias": "Vial_003_Vial insert, 150 µL, glass, conical with polymer feet, for 2 mL standard opening vials",
+    "descriptions": [
+      "Agilent_5183-2088"
+    ]
+  },
+  "Vial_004": {
+    "type": "Labware",
+    "alias": "Vial_004_Vial, screw top, 2 mL, clear, certified",
+    "descriptions": [
+      "Agilent_5182-0714"
+    ]
+  },
+  "Vial_005": {
+    "type": "Labware",
+    "alias": "Vial_005_SureSTART 2 mL Glass Crimp Top Vials",
+    "descriptions": [
+      "Thermo Fisher Scientific_6ACV11-1P"
+    ]
+  },
+  "Vial_006": {
+    "type": "Labware",
+    "alias": "Vial_006_Vial, crimp top, amber, write-on spot, certified, 2 mL",
+    "descriptions": [
+      "Agilent_5181-3376"
+    ]
+  },
+  "Vial_007": {
+    "type": "Labware",
+    "alias": "Vial_007_Vial, 8-425 screw top, 2 mL, clear",
+    "descriptions": [
+      "Agilent_5183-4428"
+    ]
+  },
+  "Vial_008": {
+    "type": "Labware",
+    "alias": "Vial_008_Vial, screw top, amber, write-on spot, certified, 2 mL",
+    "descriptions": [
+      "Agilent_5182-0716"
+    ]
+  },
+  "Cap_001": {
+    "type": "Labware",
+    "alias": "Cap_001_9mm Open Top Screw Cap Bonded White Silicon / White PTFE",
+    "descriptions": [
+      "Thermo Fisher Scientific_9-SCB-1"
+    ]
+  },
+  "Cap_002": {
+    "type": "Labware",
+    "alias": "Cap_002_Cap, 8-425 screw, black, red PTFE/silicone septa",
+    "descriptions": [
+      "Agilent_5183-4442"
+    ]
+  },
+  "Cap_003": {
+    "type": "Labware",
+    "alias": "Cap_003_SureSTART 11 mm Crimp Caps",
+    "descriptions": [
+      "Thermo Fisher Scientific_6PCC11TST"
+    ]
+  },
+  "384 Well Plate_001": {
+    "type": "Labware",
+    "alias": "384 Well Plate_001_384-Well PP Microplate for Mass Spec, Echo Qualified, PP, Clear",
+    "descriptions": [
+      "Labcyte_PP-0200-MS"
+    ]
+  },
+  "384 Well Plate_002": {
+    "type": "Labware",
+    "alias": "384 Well Plate_002_384-Well PP 2.0 Microplate, Echo Qualified, PP, Clear, RNase-/DNase-free",
+    "descriptions": [
+      "Labcyte_PP-0200"
+    ]
+  },
+  "384 Well Plate_003": {
+    "type": "Labware",
+    "alias": "384 Well Plate_003_384-Well Low Dead Volume Plus Microplate, Echo Qualified, COC, Clear, RNase-/DNase-free, Surface-treated, Sterile",
+    "descriptions": [
+      "Labcyte_LPL-0200"
+    ]
+  },
+  "384 Well Plate_004": {
+    "type": "Labware",
+    "alias": "384 Well Plate_004_UV-STAR plate, 384 Well, F-Bottom",
+    "descriptions": [
+      "Greiner Bio-One_781801"
+    ]
+  },
+  "384 Well Plate_005": {
+    "type": "Labware",
+    "alias": "384 Well Plate_005_UVMAX, 384 Well, Flat",
+    "descriptions": [
+      "SPL_330384"
+    ]
+  },
+  "384 Well Plate_006": {
+    "type": "Labware",
+    "alias": "384 Well Plate_006_Microplate, 384 Well, PS, F-Bottom, Black",
+    "descriptions": [
+      "Greiner Bio-One_781900"
+    ]
+  },
+  "96 Well Plate_001": {
+    "type": "Labware",
+    "alias": "96 Well Plate_001_Hard-Shell Low-Profile 96-Well Skirted PCR Plates, Clear Well, White Shell",
+    "descriptions": [
+      "Bio-Rad_HSP-9601"
+    ]
+  },
+  "96 Well Plate_002": {
+    "type": "Labware",
+    "alias": "96 Well Plate_002_StorPlate 96-well, (V)-bottom, polypropylene, 450µL",
+    "descriptions": [
+      "Revvity_6008290"
+    ]
+  },
+  "96 Well Plate_003": {
+    "type": "Labware",
+    "alias": "96 Well Plate_003_StorPlate 96-well, (V)-bottom, deepwell, 2 mL",
+    "descriptions": [
+      "Revvity_6008880"
+    ]
+  },
+  "96 Well Plate_004": {
+    "type": "Labware",
+    "alias": "96 Well Plate_004_UV-STAR Microplate, 96 Well, COC, F-Bottom",
+    "descriptions": [
+      "Greiner Bio-One_655801"
+    ]
+  },
+  "96 Well Plate_005": {
+    "type": "Labware",
+    "alias": "96 Well Plate_005_UVMAX, 96 Well, Flat",
+    "descriptions": [
+      "SPL_33096"
+    ]
+  },
+  "96 Well Plate_006": {
+    "type": "Labware",
+    "alias": "96 Well Plate_006_2.0ml Deep Well Plates (Sterile)",
+    "descriptions": [
+      "Promega_AS9307"
+    ]
+  },
+  "96 Well Plate_007": {
+    "type": "Labware",
+    "alias": "96 Well Plate_007_96-Well DeepWell Polypropylene Microplates",
+    "descriptions": [
+      "Thermo Fisher Scientific_12566120"
+    ]
+  },
+  "96 Well Plate_008": {
+    "type": "Labware",
+    "alias": "96 Well Plate_008_FlexDrop Source Plates, 80 µL, 100 µM pore size",
+    "descriptions": [
+      "Revvity_CLS156444"
+    ]
+  },
+  "96 Well Plate_009": {
+    "type": "Labware",
+    "alias": "96 Well Plate_009_FlexDrop Source Plates, 80 µL, 200 µM pore size",
+    "descriptions": [
+      "Revvity_CLS156818"
+    ]
+  },
+  "96 Well Plate_010": {
+    "type": "Labware",
+    "alias": "96 Well Plate_010_FlexDrop Source Plates, 500 µL, 100 µM pore size",
+    "descriptions": [
+      "Revvity_CLS155019"
+    ]
+  },
+  "96 Well Plate_011": {
+    "type": "Labware",
+    "alias": "96 Well Plate_011_96 Deep well Plate - Dome type",
+    "descriptions": [
+      "Bioneer_90062"
+    ]
+  },
+  "96 Well Plate_012": {
+    "type": "Labware",
+    "alias": "96 Well Plate_012_Cell Culture Microplate, 96 Well, PS, F-Bottom, µClear, Black, Sterile",
+    "descriptions": [
+      "Greiner Bio-One_655090"
+    ]
+  },
+  "96 Well Plate_013": {
+    "type": "Labware",
+    "alias": "96 Well Plate_013_Cell Culture Plate, 96 Well, Flat, DNase/RNase/DNA-free, Sterilized",
+    "descriptions": [
+      "SPL_30096"
+    ]
+  },
+  "Culture Plate_001": {
+    "type": "Labware",
+    "alias": "Culture Plate_001_Petri Dish, 90 x 15 mm",
+    "descriptions": [
+      "현대마이크로_H10090"
+    ]
+  },
+  "Culture Plate_002": {
+    "type": "Labware",
+    "alias": "Culture Plate_002_Petri Dish, 150 x 25 mm, Crystal grade Polystyrene, Sterilized",
+    "descriptions": [
+      "SPL_10151"
+    ]
+  },
+  "Culture Plate_003": {
+    "type": "Labware",
+    "alias": "Culture Plate_003_Tray Plate, 127 X 85 X 16 mm, Crystal grade Polystyrene, Sterilized",
+    "descriptions": [
+      "SPL_31001"
+    ]
+  },
+  "Culture Plate_004": {
+    "type": "Labware",
+    "alias": "Culture Plate_004_Square Dish, 243 X 243 X 27.3 mm, PS, Sterilized",
+    "descriptions": [
+      "SPL_11245"
+    ]
+  },
+  "Lid_001": {
+    "type": "Labware",
+    "alias": "Lid_001_Universal Lid",
+    "descriptions": [
+      "Revvity_6000030"
+    ]
+  },
+  "Lid_002": {
+    "type": "Labware",
+    "alias": "Lid_002_MicroClime Environmental Microplate Lid, COC",
+    "descriptions": [
+      "Labcyte_LL-0310"
+    ]
+  },
+  "Lid_003": {
+    "type": "Labware",
+    "alias": "Lid_003_MicroClime(R) Environmental Lid, Sterile",
+    "descriptions": [
+      "Beckman Coulter_001-5717"
+    ]
+  },
+  "Peel_001": {
+    "type": "Labware",
+    "alias": "Peel_001_Removal Tape roll",
+    "descriptions": [
+      "Azenta_X-Tape_2000"
+    ]
+  },
+  "Seal_001": {
+    "type": "Labware",
+    "alias": "Seal_001_Peel Seal Roll",
+    "descriptions": [
+      "Azenta_4ti-0520"
+    ]
+  },
+  "Seal_002": {
+    "type": "Labware",
+    "alias": "Seal_002_Microseal 'B' Adhesive Seals",
+    "descriptions": [
+      "Bio-Rad_MSB-1001"
+    ]
+  },
+  "Seal_003": {
+    "type": "Labware",
+    "alias": "Seal_003_Microseal 'F' Foil",
+    "descriptions": [
+      "Bio-Rad_MSF-1001"
+    ]
+  },
+  "Seal_004": {
+    "type": "Labware",
+    "alias": "Seal_004_AeraSeal film",
+    "descriptions": [
+      "Sigma-Aldrich_A9224"
+    ]
+  },
+  "Reservoir_001": {
+    "type": "Labware",
+    "alias": "Reservoir_001_Echo(R) Qualified Reservoir, 2x3 Well, Polypropylene Microplate, Surface Treated with Amine Coating",
+    "descriptions": [
+      "Beckman Coulter_001-11101"
+    ]
+  },
+  "Reservoir_002": {
+    "type": "Labware",
+    "alias": "Reservoir_002_Reagent Throughs, use with 8-Tip Systems, 60mL",
+    "descriptions": [
+      "Revvity_6008104"
+    ]
+  },
+  "Reservoir_003": {
+    "type": "Labware",
+    "alias": "Reservoir_003_Reservoir, (V)-bottom, polypropylene, 287 mL",
+    "descriptions": [
+      "Revvity_6008730"
+    ]
+  },
+  "Reservoir_004": {
+    "type": "Labware",
+    "alias": "Reservoir_004_Reservoir, (V)-bottom, polypropylene, 21 mL, 12-column",
+    "descriptions": [
+      "Revvity_6008700"
+    ]
+  },
+  "Reservoir_005": {
+    "type": "Labware",
+    "alias": "Reservoir_005_NEST 12-Well Reservoirs, 15 mL",
+    "descriptions": [
+      "Revvity_999-00076"
+    ]
+  },
+  "Reservoir_006": {
+    "type": "Labware",
+    "alias": "Reservoir_006_25 ml Clear Advantage Reagent Reservoirs, polystyrene, sterile",
+    "descriptions": [
+      "Integra_4312"
+    ]
+  },
+  "Reservoir_007": {
+    "type": "Labware",
+    "alias": "Reservoir_007_100 ml Clear Advantage Reagent Reservoirs, polystyrene, sterile",
+    "descriptions": [
+      "Integra_4322"
+    ]
+  },
+  "Reservoir_008": {
+    "type": "Labware",
+    "alias": "Reservoir_008_1 Channel Reservoir 50ml, White polystyrene, Sterilized",
+    "descriptions": [
+      "SPL_22050"
+    ]
+  },
+  "Reservoir_009": {
+    "type": "Labware",
+    "alias": "Reservoir_009_8 Channel Reservoir 7ml, White polystyrene, Sterilized",
+    "descriptions": [
+      "SPL_21008"
+    ]
+  },
+  "Accessory_001": {
+    "type": "Labware",
+    "alias": "Accessory_001_Rotor Adapters (10 x 24)",
+    "descriptions": [
+      "Qiagen_990394"
+    ]
+  },
+  "Accessory_002": {
+    "type": "Labware",
+    "alias": "Accessory_002_QIAxpert Slide-40",
+    "descriptions": [
+      "Qiagen_990700"
+    ]
+  },
+  "Accessory_003": {
+    "type": "Labware",
+    "alias": "Accessory_003_MinION/GridION Flow Cell (DNA)",
+    "descriptions": [
+      "Oxford Nanopore Technologies_FLO-MIN114"
+    ]
+  },
+  "Filter_001": {
+    "type": "Labware",
+    "alias": "Filter_001_Durapore Membrane Filter, 0.45 µm",
+    "descriptions": [
+      "Merck Millipore_HVLP04700"
+    ]
+  },
+  "Filter_002": {
+    "type": "Labware",
+    "alias": "Filter_002_Minisart SRP4 Syringe Filter, 0.45 µm hydrophobic PTFE",
+    "descriptions": [
+      "Sartorius_17820----------Q"
+    ]
+  },
+  "Filter_003": {
+    "type": "Labware",
+    "alias": "Filter_003_Rapid-Flow Sterile Disposable Bottle Top Filters with PES Membrane, 0.2μm, 45mm",
+    "descriptions": [
+      "Nalgene_595-4520"
+    ]
+  },
+  "Filter_004": {
+    "type": "Labware",
+    "alias": "Filter_004_Minisart NML Syringe Filter 0.2 μm",
+    "descriptions": [
+      "Sartorius_S6534-FMOSK"
+    ]
+  },
+  "Filter_005": {
+    "type": "Labware",
+    "alias": "Filter_005_Minisart NML Syringe Filter 0.45 μm",
+    "descriptions": [
+      "Sartorius_S6555-FMOSK"
+    ]
+  },
+  "Syringe_001": {
+    "type": "Labware",
+    "alias": "Syringe_001_Norm-Ject Syringe 1ml",
+    "descriptions": [
+      "Henke-Ject_4010-200V0"
+    ]
+  },
+  "Syringe_002": {
+    "type": "Labware",
+    "alias": "Syringe_002_KOVAX-SYRINGE 1mL, 26G",
+    "descriptions": [
+      "한국백신_KOVAX-1ML"
+    ]
+  },
+  "Syringe_003": {
+    "type": "Labware",
+    "alias": "Syringe_003_KOVAX-SYRINGE 10mL, 23G",
+    "descriptions": [
+      "한국백신_KOVAX-10ML"
+    ]
+  },
+  "Syringe_004": {
+    "type": "Labware",
+    "alias": "Syringe_004_KOVAX-SYRINGE 30mL, 21G",
+    "descriptions": [
+      "한국백신_KOVAX-30ML"
+    ]
+  },
+  "Syringe_005": {
+    "type": "Labware",
+    "alias": "Syringe_005_KOVAX-SYRINGE 50mL, 21G",
+    "descriptions": [
+      "한국백신_KOVAX-50ML"
+    ]
+  },
+  "Cuvette_001": {
+    "type": "Labware",
+    "alias": "Cuvette_001_Semi-micro cuvette, 3 ml, 45 X 12 mm, PMMA, transparent, optical",
+    "descriptions": [
+      "Sarstedt_67.740"
+    ]
+  },
+  "Cuvette_002": {
+    "type": "Labware",
+    "alias": "Cuvette_002_Gene Pulser/MicroPulser Electroporation Cuvettes, 0.1 cm gap",
+    "descriptions": [
+      "Bio-Rad_1652089"
+    ]
+  },
+  "Cuvette_003": {
+    "type": "Labware",
+    "alias": "Cuvette_003_Gene Pulser/MicroPulser Electroporation Cuvettes, 0.2 cm gap",
+    "descriptions": [
+      "Bio-Rad_1652086"
+    ]
+  },
+  "Loop_001": {
+    "type": "Labware",
+    "alias": "Loop_001_Ino-Loop - Inoculating loops and needles",
+    "descriptions": [
+      "Simport_L200-1A"
+    ]
+  },
+  "Spreader_001": {
+    "type": "Labware",
+    "alias": "Spreader_001_Spreader, PP, Sterilized",
+    "descriptions": [
+      "SPL_90050"
+    ]
+  },
+  "Needle_001": {
+    "type": "Labware",
+    "alias": "Needle_001_Sterile Single Use Needle, 26G X 60mm",
+    "descriptions": [
+      "Sungshim Medical_26G X 60mm"
+    ]
+  },
+  "Tape_001": {
+    "type": "Labware",
+    "alias": "Tape_001_삼원 무소음 OPP 박스테이프 투명 45m",
+    "descriptions": [
+      "삼원테이프"
+    ]
+  },
+  "Tape_002": {
+    "type": "Labware",
+    "alias": "Tape_002_Write-On Label Tape",
+    "descriptions": [
+      "Bel-Art_BE.F13463"
+    ]
+  },
+  "Tape_003": {
+    "type": "Labware",
+    "alias": "Tape_003_Tape, Autoclave/Steam Sterile, Indicator",
+    "descriptions": [
+      "SciLab_HH.1080550"
+    ]
+  },
+  "Tape_004": {
+    "type": "Labware",
+    "alias": "Tape_004_Parafilm M Laboratory Sealing Film",
+    "descriptions": [
+      "Bemis_PM-996"
+    ]
+  },
+  "Tape_005": {
+    "type": "Labware",
+    "alias": "Tape_005_K Sealing Tape",
+    "descriptions": [
+      "Kisan_KS-S3166"
+    ]
+  },
+  "Wrap_001": {
+    "type": "Labware",
+    "alias": "Wrap_001_크린랲 30cm x 50m",
+    "descriptions": [
+      "크린랩"
+    ]
+  },
+  "Foil_001": {
+    "type": "Labware",
+    "alias": "Foil_001_대한쿠킹호일 30mm X 30m, 18μm",
+    "descriptions": [
+      "대한알미늄"
+    ]
+  },
+  "Wiper_001": {
+    "type": "Labware",
+    "alias": "Wiper_001_킴테크 사이언스 와이퍼 중형 200매, 215 mm x 210 mm",
+    "descriptions": [
+      "유한킴벌리_41117"
+    ]
+  },
+  "Wiper_002": {
+    "type": "Labware",
+    "alias": "Wiper_002_크리넥스 드라이셀 핸드타올 스탠다드 F250, 205 mm x 240 mm",
+    "descriptions": [
+      "유한킴벌리_47222"
+    ]
+  },
+  "Wiper_003": {
+    "type": "Labware",
+    "alias": "Wiper_003_와이프올 L25 에어포켓 와이퍼 중형 200매, 260 mm x 430 mm X 3겹",
+    "descriptions": [
+      "유한킴벌리_41704"
+    ]
+  },
+  "Glove_001": {
+    "type": "Labware",
+    "alias": "Glove_001_Disposable Clean Glove",
+    "descriptions": [
+      "크린랩_C10.401"
+    ]
+  },
+  "Glove_002": {
+    "type": "Labware",
+    "alias": "Glove_002_Powder-free Nitrile Glove XS",
+    "descriptions": [
+      "PerfectShield_HD-FN3-XS"
+    ]
+  },
+  "Glove_003": {
+    "type": "Labware",
+    "alias": "Glove_003_Powder-free Nitrile Glove S",
+    "descriptions": [
+      "PerfectShield_HD-FN3-S"
+    ]
+  },
+  "Glove_004": {
+    "type": "Labware",
+    "alias": "Glove_004_Powder-free Nitrile Glove M",
+    "descriptions": [
+      "PerfectShield_HD-FN3-M"
+    ]
+  },
+  "Glove_005": {
+    "type": "Labware",
+    "alias": "Glove_005_Powder-free Nitrile Glove L",
+    "descriptions": [
+      "PerfectShield_HD-FN3-L"
+    ]
+  }
+}
