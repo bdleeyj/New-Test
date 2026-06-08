@@ -1,0 +1,572 @@
+{
+  "Kit_001": {
+    "type": "Reagent",
+    "alias": "Kit_001_LaboPass Plasmid DNA Purification Kit Mini",
+    "descriptions": [
+      "Cosmogenetech_CMP0112"
+    ]
+  },
+  "Kit_002": {
+    "type": "Reagent",
+    "alias": "Kit_002_Wizard MagneSil Plasmid Purification System",
+    "descriptions": [
+      "Promega_A1631"
+    ]
+  },
+  "Kit_003": {
+    "type": "Reagent",
+    "alias": "Kit_003_DaBead Plasmid Prep Kit Mini/Midi/Maxi",
+    "descriptions": [
+      "Biofact_PM751-100"
+    ]
+  },
+  "Kit_004": {
+    "type": "Reagent",
+    "alias": "Kit_004_QIAamp DNA Mini Kit (250)",
+    "descriptions": [
+      "Qiagen_51306"
+    ]
+  },
+  "Kit_005": {
+    "type": "Reagent",
+    "alias": "Kit_005_LaboPass Gel and PCR Clean-up Kit",
+    "descriptions": [
+      "Cosmogenetech_CMA0112"
+    ]
+  },
+  "Kit_006": {
+    "type": "Reagent",
+    "alias": "Kit_006_Wizard SV Gel and PCR Clean-Up System",
+    "descriptions": [
+      "Promega_A9282"
+    ]
+  },
+  "Kit_007": {
+    "type": "Reagent",
+    "alias": "Kit_007_MagListo 5M PCR/Gel Purification Kit",
+    "descriptions": [
+      "Bioneer_K-3627"
+    ]
+  },
+  "Kit_008": {
+    "type": "Reagent",
+    "alias": "Kit_008_GEL/PCR Purification Kit",
+    "descriptions": [
+      "Alphagen Biotech_APGCK300"
+    ]
+  },
+  "Kit_009": {
+    "type": "Reagent",
+    "alias": "Kit_009_SPRIselect",
+    "descriptions": [
+      "Beckman Coulter_B23319"
+    ]
+  },
+  "Kit_010": {
+    "type": "Reagent",
+    "alias": "Kit_010_Qubit 1X dsDNA HS Assay Kits",
+    "descriptions": [
+      "Invitrogen_Q33231"
+    ]
+  },
+  "Kit_011": {
+    "type": "Reagent",
+    "alias": "Kit_011_dsDNA 915 Reagent Kit (35-5000bp)",
+    "descriptions": [
+      "Agilent_DNF-915-K1000"
+    ]
+  },
+  "Kit_012": {
+    "type": "Reagent",
+    "alias": "Kit_012_dsDNA 930 Reagent Kit (75-20000bp)",
+    "descriptions": [
+      "Agilent_DNF-930-K1000"
+    ]
+  },
+  "Kit_013": {
+    "type": "Reagent",
+    "alias": "Kit_013_dsDNA 920 Reagent Kit (75-15000bp)",
+    "descriptions": [
+      "Agilent_DNF-920-K0500"
+    ]
+  },
+  "Kit_014": {
+    "type": "Reagent",
+    "alias": "Kit_014_E-Gel EX 1% Agarose Gels",
+    "descriptions": [
+      "Invitrogen_G401001"
+    ]
+  },
+  "Kit_015": {
+    "type": "Reagent",
+    "alias": "Kit_015_E-Gel CloneWell II Agarose Gels with SYBR Safe, 0.8%",
+    "descriptions": [
+      "Invitrogen_G661818"
+    ]
+  },
+  "Kit_016": {
+    "type": "Reagent",
+    "alias": "Kit_016_12% Mini-PROTEAN TGX Precast Protein Gels, 12-well, 20 µl",
+    "descriptions": [
+      "Bio-Rad_4561045"
+    ]
+  },
+  "Kit_017": {
+    "type": "Reagent",
+    "alias": "Kit_017_12% Mini-PROTEAN TGX Precast Protein Gels, 15-well, 15 µl",
+    "descriptions": [
+      "Bio-Rad_4561046"
+    ]
+  },
+  "Kit_018": {
+    "type": "Reagent",
+    "alias": "Kit_018_Native Barcoding Kit 24 V14",
+    "descriptions": [
+      "Oxford Nanopore Technologies_SQK-NBD114.24"
+    ]
+  },
+  "Kit_019": {
+    "type": "Reagent",
+    "alias": "Kit_019_Native Barcoding Auxillary Kit V14",
+    "descriptions": [
+      "Oxford Nanopore Technologies_EXP-NBA114"
+    ]
+  },
+  "Kit_020": {
+    "type": "Reagent",
+    "alias": "Kit_020_Sequencing Auxiliary Vials V14",
+    "descriptions": [
+      "Oxford Nanopore Technologies_EXP-AUX003"
+    ]
+  },
+  "Kit_021": {
+    "type": "Reagent",
+    "alias": "Kit_021_Rapid PCR Barcoding Kit 24 V14",
+    "descriptions": [
+      "Oxford Nanopore Technologies_SQK-RPB114.24"
+    ]
+  },
+  "Kit_022": {
+    "type": "Reagent",
+    "alias": "Kit_022_Rapid Barcoding Kit 96 V14",
+    "descriptions": [
+      "Oxford Nanopore Technologies_SQK-RBK114.96"
+    ]
+  },
+  "Kit_023": {
+    "type": "Reagent",
+    "alias": "Kit_023_Rapid Adapter Auxiliary V14",
+    "descriptions": [
+      "Oxford Nanopore Technologies_EXP-RAA114"
+    ]
+  },
+  "Kit_024": {
+    "type": "Reagent",
+    "alias": "Kit_024_Ligation Sequencing Kit V14",
+    "descriptions": [
+      "Oxford Nanopore Technologies_SQK-LSK114"
+    ]
+  },
+  "Kit_025": {
+    "type": "Reagent",
+    "alias": "Kit_025_Flow Cell Priming Kit XL",
+    "descriptions": [
+      "Oxford Nanopore Technologies_EXP-FLP004-XL"
+    ]
+  },
+  "Kit_026": {
+    "type": "Reagent",
+    "alias": "Kit_026_Flow Cell Wash Kit XL",
+    "descriptions": [
+      "Oxford Nanopore Technologies_EXP-WSH004-XL"
+    ]
+  },
+  "Kit_027": {
+    "type": "Reagent",
+    "alias": "Kit_027_LFB Expansion",
+    "descriptions": [
+      "Oxford Nanopore Technologies_EXP-LFB001"
+    ]
+  },
+  "Kit_028": {
+    "type": "Reagent",
+    "alias": "Kit_028_SFB Expansion",
+    "descriptions": [
+      "Oxford Nanopore Technologies_EXP-SFB001"
+    ]
+  },
+  "Kit_029": {
+    "type": "Reagent",
+    "alias": "Kit_029_Control Expansion Kit",
+    "descriptions": [
+      "Oxford Nanopore Technologies_EXP-CTL001"
+    ]
+  },
+  "Enzyme_001": {
+    "type": "Reagent",
+    "alias": "Enzyme_001_BsaⅠ-HFv2",
+    "descriptions": [
+      "NEB_R3733LVIAL"
+    ]
+  },
+  "Enzyme_002": {
+    "type": "Reagent",
+    "alias": "Enzyme_002_T4 DNA Ligase",
+    "descriptions": [
+      "NEB_M0202LVIAL"
+    ]
+  },
+  "Enzyme_003": {
+    "type": "Reagent",
+    "alias": "Enzyme_003_T4 DNA Ligase Reaction Buffer",
+    "descriptions": [
+      "NEB_B0202SVIAL"
+    ]
+  },
+  "Enzyme_004": {
+    "type": "Reagent",
+    "alias": "Enzyme_004_T4 DNA Ligase (HC)",
+    "descriptions": [
+      "Promega_M1794"
+    ]
+  },
+  "Enzyme_005": {
+    "type": "Reagent",
+    "alias": "Enzyme_005_T4 DNA Ligase 10X Buffer",
+    "descriptions": [
+      "Promega_C126B"
+    ]
+  },
+  "Enzyme_006": {
+    "type": "Reagent",
+    "alias": "Enzyme_006_Gibson Assembly Master Mix",
+    "descriptions": [
+      "NEB_M5510AAVIAL"
+    ]
+  },
+  "Enzyme_007": {
+    "type": "Reagent",
+    "alias": "Enzyme_007_DpnⅠ",
+    "descriptions": [
+      "NEB_R0176LVIAL"
+    ]
+  },
+  "Enzyme_008": {
+    "type": "Reagent",
+    "alias": "Enzyme_008_T7 Endonuclease Ⅰ",
+    "descriptions": [
+      "NEB_M0302LVIAL"
+    ]
+  },
+  "Enzyme_009": {
+    "type": "Reagent",
+    "alias": "Enzyme_009_NEBuffer 2",
+    "descriptions": [
+      "NEB_B7002SVIAL"
+    ]
+  },
+  "Enzyme_010": {
+    "type": "Reagent",
+    "alias": "Enzyme_010_KOD One PCR Master Mix",
+    "descriptions": [
+      "Toyobo_KMM-101"
+    ]
+  },
+  "Enzyme_011": {
+    "type": "Reagent",
+    "alias": "Enzyme_011_KOD One PCR Master Mix -Blue-",
+    "descriptions": [
+      "Toyobo_KMM-201"
+    ]
+  },
+  "Enzyme_012": {
+    "type": "Reagent",
+    "alias": "Enzyme_012_NEBNext Ultra Ⅱ End Prep Enzyme Mix",
+    "descriptions": [
+      "NEB_E7646AAVIAL"
+    ]
+  },
+  "Enzyme_013": {
+    "type": "Reagent",
+    "alias": "Enzyme_013_NEBNext Ultra Ⅱ End Prep Reaction Buffer",
+    "descriptions": [
+      "NEB_E7647AAVIAL"
+    ]
+  },
+  "Enzyme_014": {
+    "type": "Reagent",
+    "alias": "Enzyme_014_NEBNext FFPE DNA Repair Mix",
+    "descriptions": [
+      "NEB_M6630LVIAL"
+    ]
+  },
+  "Enzyme_015": {
+    "type": "Reagent",
+    "alias": "Enzyme_015_NEBNext FFPE DNA Repair Buffer",
+    "descriptions": [
+      "NEB_E6622AAVIAL"
+    ]
+  },
+  "Enzyme_016": {
+    "type": "Reagent",
+    "alias": "Enzyme_016_Blunt/TA Ligase Master Mix",
+    "descriptions": [
+      "NEB_M0367LVIAL"
+    ]
+  },
+  "Enzyme_017": {
+    "type": "Reagent",
+    "alias": "Enzyme_017_Quick T4 DNA Ligase",
+    "descriptions": [
+      "NEB_E6057AAVIAL"
+    ]
+  },
+  "Enzyme_018": {
+    "type": "Reagent",
+    "alias": "Enzyme_018_NEBNext Quick Ligation Reaction Buffer",
+    "descriptions": [
+      "NEB_E6058AAVIAL"
+    ]
+  },
+  "Enzyme_019": {
+    "type": "Reagent",
+    "alias": "Enzyme_019_NEBNext Quick Ligation Reaction Buffer",
+    "descriptions": [
+      "NEB_B6058SVIAL"
+    ]
+  },
+  "Chemical_001": {
+    "type": "Reagent",
+    "alias": "Chemical_001_1kb Plus DNA Ladder",
+    "descriptions": [
+      "Invitrogen_10787018"
+    ]
+  },
+  "Chemical_002": {
+    "type": "Reagent",
+    "alias": "Chemical_002_BlueJuice Gel Loading Buffer",
+    "descriptions": [
+      "Invitrogen_10816015"
+    ]
+  },
+  "Chemical_003": {
+    "type": "Reagent",
+    "alias": "Chemical_003_Midori Green Advance DNA Stain",
+    "descriptions": [
+      "NIPPON Genetics EUROPE_MG04"
+    ]
+  },
+  "Chemical_004": {
+    "type": "Reagent",
+    "alias": "Chemical_004_SeaKem LE Agarose",
+    "descriptions": [
+      "Lonza_50004"
+    ]
+  },
+  "Chemical_005": {
+    "type": "Reagent",
+    "alias": "Chemical_005_50X TAE",
+    "descriptions": [
+      "Bioneer_C-9004"
+    ]
+  },
+  "Chemical_006": {
+    "type": "Reagent",
+    "alias": "Chemical_006_Difco Agar",
+    "descriptions": [
+      "BD_214010"
+    ]
+  },
+  "Chemical_007": {
+    "type": "Reagent",
+    "alias": "Chemical_007_Difco LB Broth, Miller (Luria-Bertani)",
+    "descriptions": [
+      "BD_244620"
+    ]
+  },
+  "Chemical_008": {
+    "type": "Reagent",
+    "alias": "Chemical_008_Bacto Tryptone",
+    "descriptions": [
+      "Gibco_211705"
+    ]
+  },
+  "Chemical_009": {
+    "type": "Reagent",
+    "alias": "Chemical_009_Bacto Yeast Extract",
+    "descriptions": [
+      "Gibco_212750"
+    ]
+  },
+  "Chemical_010": {
+    "type": "Reagent",
+    "alias": "Chemical_010_Difco Terrific Broth",
+    "descriptions": [
+      "BD_243820"
+    ]
+  },
+  "Chemical_011": {
+    "type": "Reagent",
+    "alias": "Chemical_011_Difco M9 Minimal Salts, 5X",
+    "descriptions": [
+      "BD_248510"
+    ]
+  },
+  "Chemical_012": {
+    "type": "Reagent",
+    "alias": "Chemical_012_Bacto Peptone",
+    "descriptions": [
+      "Gibco_211677"
+    ]
+  },
+  "Chemical_013": {
+    "type": "Reagent",
+    "alias": "Chemical_013_Ampicillin sodium salt",
+    "descriptions": [
+      "Sigma-Aldrich_A9518-25G"
+    ]
+  },
+  "Chemical_014": {
+    "type": "Reagent",
+    "alias": "Chemical_014_Kanamycin disulfate salt from Streptomyces kanamyceticus",
+    "descriptions": [
+      "Sigma-Aldrich_K1876-25G"
+    ]
+  },
+  "Chemical_015": {
+    "type": "Reagent",
+    "alias": "Chemical_015_Chloramphenicol, ≥98%",
+    "descriptions": [
+      "Sigma-Aldrich_C0378-25G"
+    ]
+  },
+  "Chemical_016": {
+    "type": "Reagent",
+    "alias": "Chemical_016_Sodium chloride, ≥99.5%",
+    "descriptions": [
+      "Junsei_19015S0350"
+    ]
+  },
+  "Chemical_017": {
+    "type": "Reagent",
+    "alias": "Chemical_017_Sodium hydroxide, ≥97.0%",
+    "descriptions": [
+      "Sigma-Aldrich_221465-1KG"
+    ]
+  },
+  "Chemical_018": {
+    "type": "Reagent",
+    "alias": "Chemical_018_Sodium hydroxide, ≥97.0%",
+    "descriptions": [
+      "Junsei_39155S0350"
+    ]
+  },
+  "Chemical_019": {
+    "type": "Reagent",
+    "alias": "Chemical_019_Calcium chloride dihydrate, ≥99%",
+    "descriptions": [
+      "Sigma-Aldrich_223506-500G"
+    ]
+  },
+  "Chemical_020": {
+    "type": "Reagent",
+    "alias": "Chemical_020_Potassium chloride, ≥99.0%",
+    "descriptions": [
+      "Sigma-Aldrich_P9541-1KG"
+    ]
+  },
+  "Chemical_021": {
+    "type": "Reagent",
+    "alias": "Chemical_021_Potassium hydroxide, ≥85%",
+    "descriptions": [
+      "Sigma-Aldrich_221473-500G"
+    ]
+  },
+  "Chemical_022": {
+    "type": "Reagent",
+    "alias": "Chemical_022_Magnesium chloride, ≥98%",
+    "descriptions": [
+      "Sigma-Aldrich_M8266-1KG"
+    ]
+  },
+  "Chemical_023": {
+    "type": "Reagent",
+    "alias": "Chemical_023_Magnesium sulfate heptahydrate, ≥98%",
+    "descriptions": [
+      "Sigma-Aldrich_230391-1KG"
+    ]
+  },
+  "Chemical_024": {
+    "type": "Reagent",
+    "alias": "Chemical_024_Manganese(Ⅱ) chloride tetrahydrate, ≥98%",
+    "descriptions": [
+      "Sigma-Aldrich_221279-500G"
+    ]
+  },
+  "Chemical_025": {
+    "type": "Reagent",
+    "alias": "Chemical_025_PIPES",
+    "descriptions": [
+      "Sigma-Aldrich_P1851-500G"
+    ]
+  },
+  "Chemical_026": {
+    "type": "Reagent",
+    "alias": "Chemical_026_Dimethyl sulfoxide",
+    "descriptions": [
+      "Sigma-Aldrich_D8418-100ML"
+    ]
+  },
+  "Chemical_027": {
+    "type": "Reagent",
+    "alias": "Chemical_027_Glycerol, ≥99.5%",
+    "descriptions": [
+      "Junsei_27210S0350"
+    ]
+  },
+  "Chemical_028": {
+    "type": "Reagent",
+    "alias": "Chemical_028_D(+)-Glucose, ≥98%",
+    "descriptions": [
+      "Junsei_64220S0650"
+    ]
+  },
+  "Chemical_029": {
+    "type": "Reagent",
+    "alias": "Chemical_029_Acetone, ≥99.5%",
+    "descriptions": [
+      "Junsei_11265S0380"
+    ]
+  },
+  "Chemical_030": {
+    "type": "Reagent",
+    "alias": "Chemical_030_2-Propanol, ≥99.8%",
+    "descriptions": [
+      "Supelco_1.09634.1011"
+    ]
+  },
+  "Chemical_031": {
+    "type": "Reagent",
+    "alias": "Chemical_031_Ethanol, ≥99.9%",
+    "descriptions": [
+      "Supelco_1.00983.2511"
+    ]
+  },
+  "Chemical_032": {
+    "type": "Reagent",
+    "alias": "Chemical_032_Methanol, ≥99.8%",
+    "descriptions": [
+      "Supelco_1.06018.4000"
+    ]
+  },
+  "Chemical_033": {
+    "type": "Reagent",
+    "alias": "Chemical_033_1DW",
+    "descriptions": []
+  },
+  "Chemical_034": {
+    "type": "Reagent",
+    "alias": "Chemical_034_3DW",
+    "descriptions": []
+  }
+}

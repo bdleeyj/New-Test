@@ -1,0 +1,18 @@
+{
+  "DNA-1780906788008": {
+    "type": "DNA",
+    "alias": "For panC",
+    "descriptions": [],
+    "sources": [
+      "001_WD020_Adaptive_Laboratory_Evolution_Design.labnote.md"
+    ]
+  },
+  "DNA-1780906803966": {
+    "type": "DNA",
+    "alias": "for panC",
+    "descriptions": [],
+    "sources": [
+      "001_WD020_Adaptive_Laboratory_Evolution_Design.labnote.md"
+    ]
+  }
+}

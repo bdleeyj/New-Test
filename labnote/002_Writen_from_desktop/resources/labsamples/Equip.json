@@ -1,0 +1,12 @@
+{
+  "Equip-1780906817236": {
+    "type": "Equip",
+    "alias": "Centrifuge_005_Centrifuge",
+    "descriptions": [
+      "344_32-2014-0456_연구동 1111호"
+    ],
+    "sources": [
+      "001_WD020_Adaptive_Laboratory_Evolution_Design.labnote.md"
+    ]
+  }
+}

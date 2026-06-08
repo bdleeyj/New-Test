@@ -1,0 +1,2423 @@
+{
+  "Electrophoresis_001": {
+    "type": "Equip",
+    "alias": "Electrophoresis_001_Experion System for RNA, DNA",
+    "descriptions": [
+      "267_32-2012-0589_연구동1111호"
+    ]
+  },
+  "Electrophoresis_002": {
+    "type": "Equip",
+    "alias": "Electrophoresis_002_E-Gel Power Snap Electrophoresis System",
+    "descriptions": [
+      "2022-003_32-2022-0069_연구동1111호"
+    ]
+  },
+  "Electrophoresis_003": {
+    "type": "Equip",
+    "alias": "Electrophoresis_003_E-GEL POWER SNAP DEVICE EACH",
+    "descriptions": [
+      "2022-013_32-2022-0278_연구동1111호"
+    ]
+  },
+  "Centrifuge_001": {
+    "type": "Equip",
+    "alias": "Centrifuge_001_Micro high speed refrigerated centrifuge",
+    "descriptions": [
+      "81_32-2006-0534_연구동 1111호"
+    ]
+  },
+  "Centrifuge_002": {
+    "type": "Equip",
+    "alias": "Centrifuge_002_High-speed microcentrifuge",
+    "descriptions": [
+      "157_32-2011-0022_연구동 1111호"
+    ]
+  },
+  "Centrifuge_003": {
+    "type": "Equip",
+    "alias": "Centrifuge_003_냉장원심분리기(5415R)(특별가)",
+    "descriptions": [
+      "289_32-2013-0360_연구동 1111호"
+    ]
+  },
+  "Centrifuge_004": {
+    "type": "Equip",
+    "alias": "Centrifuge_004_Centrifuge",
+    "descriptions": [
+      "332_32-2014-0307_연구동 1111호"
+    ]
+  },
+  "Centrifuge_005": {
+    "type": "Equip",
+    "alias": "Centrifuge_005_Centrifuge",
+    "descriptions": [
+      "344_32-2014-0456_연구동 1111호"
+    ]
+  },
+  "Centrifuge_006": {
+    "type": "Equip",
+    "alias": "Centrifuge_006_Centrifuge",
+    "descriptions": [
+      "398_32-2015-0624_연구동 1111호"
+    ]
+  },
+  "Centrifuge_007": {
+    "type": "Equip",
+    "alias": "Centrifuge_007_Centrifuge",
+    "descriptions": [
+      "2021-003_32-2021-0075_연구동1111호"
+    ]
+  },
+  "Centrifuge_008": {
+    "type": "Equip",
+    "alias": "Centrifuge_008_Centrifuge",
+    "descriptions": [
+      "2021-004_32-2021-0076_연구동1111호"
+    ]
+  },
+  "Centrifuge_009": {
+    "type": "Equip",
+    "alias": "Centrifuge_009_Centrifuge",
+    "descriptions": [
+      "2021-007_32-2021-0134_연구동 1111호"
+    ]
+  },
+  "Centrifuge_010": {
+    "type": "Equip",
+    "alias": "Centrifuge_010_Centrifuge",
+    "descriptions": [
+      "2022-007_32-2022-0156_연구동 1111호"
+    ]
+  },
+  "Centrifuge_011": {
+    "type": "Equip",
+    "alias": "Centrifuge_011_Centrifuge",
+    "descriptions": [
+      "2022-008_32-2022-0157_연구동 1111호"
+    ]
+  },
+  "Centrifuge_012": {
+    "type": "Equip",
+    "alias": "Centrifuge_012_Table-top Refrigerated Centrifuge",
+    "descriptions": [
+      "2022-019_32-2022-0563_연구동1111"
+    ]
+  },
+  "Centrifuge_013": {
+    "type": "Equip",
+    "alias": "Centrifuge_013_Centrifuge 5425",
+    "descriptions": [
+      "2022-028_32-2022-0751_연구동1111"
+    ]
+  },
+  "Centrifuge_014": {
+    "type": "Equip",
+    "alias": "Centrifuge_014_Centrifuge 5425",
+    "descriptions": [
+      "2022-029_32-2022-0752_연구동1111"
+    ]
+  },
+  "Centrifuge_015": {
+    "type": "Equip",
+    "alias": "Centrifuge_015_Centrifuge 5425",
+    "descriptions": [
+      "2022-030_32-2022-0791_연구동1111호"
+    ]
+  },
+  "Centrifuge_016": {
+    "type": "Equip",
+    "alias": "Centrifuge_016_Centrifuge 5425",
+    "descriptions": [
+      "2024-***_32-2024-0056_연구동 1111호"
+    ]
+  },
+  "Centrifuge_017": {
+    "type": "Equip",
+    "alias": "Centrifuge_017_Eppendorf 5424",
+    "descriptions": [
+      "***_자산번호없음_-"
+    ]
+  },
+  "Centrifuge_018": {
+    "type": "Equip",
+    "alias": "Centrifuge_018_Eppendorf 5418",
+    "descriptions": [
+      "***_자산번호없음_-"
+    ]
+  },
+  "Centrifuge_019": {
+    "type": "Equip",
+    "alias": "Centrifuge_019_소형원심분리기(대한과학 Mini CF-5)",
+    "descriptions": [
+      "***_자산번호없음_-"
+    ]
+  },
+  "Centrifuge_020": {
+    "type": "Equip",
+    "alias": "Centrifuge_020_소형원심분리기(대한과학 Mini CF-5)",
+    "descriptions": [
+      "***_자산번호없음_-"
+    ]
+  },
+  "Centrifuge_021": {
+    "type": "Equip",
+    "alias": "Centrifuge_021_소형원심분리기(대한과학 Mini CF-5)",
+    "descriptions": [
+      "***_자산번호없음_-"
+    ]
+  },
+  "Centrifuge_022": {
+    "type": "Equip",
+    "alias": "Centrifuge_022_소형원심분리기(대한과학 Mini CF-5)",
+    "descriptions": [
+      "***_자산번호없음_-"
+    ]
+  },
+  "Spectrophotometer_001": {
+    "type": "Equip",
+    "alias": "Spectrophotometer_001_NaNoDrop UV/Vis Spectrophotometer",
+    "descriptions": [
+      "88_32-2006-0757_연구동 1111호"
+    ]
+  },
+  "Spectrophotometer_002": {
+    "type": "Equip",
+    "alias": "Spectrophotometer_002_UV-Vis Spectrophotometer",
+    "descriptions": [
+      "171_32-2011-0392_연구동 1111호"
+    ]
+  },
+  "Spectrophotometer_003": {
+    "type": "Equip",
+    "alias": "Spectrophotometer_003_Ultrospec 8000",
+    "descriptions": [
+      "249_32-2012-0403_연구동 1111호"
+    ]
+  },
+  "Spectrophotometer_004": {
+    "type": "Equip",
+    "alias": "Spectrophotometer_004_UV/VIS Spectrophotometer system",
+    "descriptions": [
+      "487_32-2019-0028_연구동1201호"
+    ]
+  },
+  "Bath_001": {
+    "type": "Equip",
+    "alias": "Bath_001_Dri-Bath",
+    "descriptions": [
+      "46_32-2002-0077_연구동 1111호"
+    ]
+  },
+  "Bath_002": {
+    "type": "Equip",
+    "alias": "Bath_002_Water bath",
+    "descriptions": [
+      "298_32-2013-0565_연구동 1112-1호"
+    ]
+  },
+  "Bath_003": {
+    "type": "Equip",
+    "alias": "Bath_003_Water bath",
+    "descriptions": [
+      "299_32-2013-0634_연구동 1112-1호"
+    ]
+  },
+  "Clean Bench_001": {
+    "type": "Equip",
+    "alias": "Clean Bench_001_Biological Safety Cabinet",
+    "descriptions": [
+      "341_09-2014-0374_연구동 1111호"
+    ]
+  },
+  "Clean Bench_002": {
+    "type": "Equip",
+    "alias": "Clean Bench_002_Biohazard Safety Cabinet",
+    "descriptions": [
+      "2021-017_32-2021-0634_연구동1111호"
+    ]
+  },
+  "Clean Bench_003": {
+    "type": "Equip",
+    "alias": "Clean Bench_003_Biohazard Safety Cabinet",
+    "descriptions": [
+      "2021-018_32-2021-0635_연구동1111호"
+    ]
+  },
+  "Stirrer_001": {
+    "type": "Equip",
+    "alias": "Stirrer_001_Hot Plates and Stirrers",
+    "descriptions": [
+      "430_32-2016-0088_연구동 1111호"
+    ]
+  },
+  "Stirrer_002": {
+    "type": "Equip",
+    "alias": "Stirrer_002_Hot Plates and Stirrers",
+    "descriptions": [
+      "***_자산번호없음_연구동 1111호"
+    ]
+  },
+  "Mixer_001": {
+    "type": "Equip",
+    "alias": "Mixer_001_Vortex Mixer-Genie 2",
+    "descriptions": [
+      "415_32-2015-0704_연구동 1111호"
+    ]
+  },
+  "Mixer_002": {
+    "type": "Equip",
+    "alias": "Mixer_002_Vortex Mixer-Genie 2",
+    "descriptions": [
+      "329_32-2014-0285_연구동 1111호"
+    ]
+  },
+  "Mixer_003": {
+    "type": "Equip",
+    "alias": "Mixer_003_Vortex Mixer-Genie 2",
+    "descriptions": [
+      "330_32-2014-0286_연구동 1111호"
+    ]
+  },
+  "Mixer_004": {
+    "type": "Equip",
+    "alias": "Mixer_004_Vortex-Genie 2",
+    "descriptions": [
+      "163_32-2011-0170_연구동 1111호"
+    ]
+  },
+  "Mixer_005": {
+    "type": "Equip",
+    "alias": "Mixer_005_Vortex",
+    "descriptions": [
+      "118_32-2009-0047_연구동 1111호"
+    ]
+  },
+  "Mixer_006": {
+    "type": "Equip",
+    "alias": "Mixer_006_Vortex",
+    "descriptions": [
+      "119_32-2009-0048_연구동 1111호"
+    ]
+  },
+  "Mixer_007": {
+    "type": "Equip",
+    "alias": "Mixer_007_Vortex GENIE 2",
+    "descriptions": [
+      "2022-023_32-2022-0619_연구동1111호"
+    ]
+  },
+  "Mixer_008": {
+    "type": "Equip",
+    "alias": "Mixer_008_Vortex GENIE 2",
+    "descriptions": [
+      "2022-024_32-2022-0620_연구동1111호"
+    ]
+  },
+  "Mixer_009": {
+    "type": "Equip",
+    "alias": "Mixer_009_Vortex GENIE 2",
+    "descriptions": [
+      "2022-025_32-2022-0621_연구동1111호"
+    ]
+  },
+  "Mixer_010": {
+    "type": "Equip",
+    "alias": "Mixer_010_Vortex GENIE 2",
+    "descriptions": [
+      "2022-026_32-2022-0622_연구동1111호"
+    ]
+  },
+  "Mixer_011": {
+    "type": "Equip",
+    "alias": "Mixer_011_Rocker",
+    "descriptions": [
+      "***_?????_연구동 1111호"
+    ]
+  },
+  "Mixer_012": {
+    "type": "Equip",
+    "alias": "Mixer_012_Vacuum Pump",
+    "descriptions": [
+      "49_32-2003-0551_???"
+    ]
+  },
+  "Mixer_013": {
+    "type": "Equip",
+    "alias": "Mixer_013_Blender, High 22,000 Low 18,000, 1L, 3.6A, 120V, 50/60Hz",
+    "descriptions": [
+      "149_32-2010-0348_연구동 1111호"
+    ]
+  },
+  "Thermomixer_001": {
+    "type": "Equip",
+    "alias": "Thermomixer_001_Thermomixer comfort(특별가)",
+    "descriptions": [
+      "288_32-2013-0361_연구동 1111호"
+    ]
+  },
+  "Thermomixer_002": {
+    "type": "Equip",
+    "alias": "Thermomixer_002_Thermomixer comfort",
+    "descriptions": [
+      "***_자산번호없음_연구동 1111호"
+    ]
+  },
+  "Thermomixer_003": {
+    "type": "Equip",
+    "alias": "Thermomixer_003_Thermomixer comfort",
+    "descriptions": [
+      "***_자산번호없음_연구동 1111호"
+    ]
+  },
+  "Other_001": {
+    "type": "Equip",
+    "alias": "Other_001_Gene Pulser X Cell Microbial System",
+    "descriptions": [
+      "93_32-2007-0168_연구동 1111호"
+    ]
+  },
+  "Other_002": {
+    "type": "Equip",
+    "alias": "Other_002_휴대형 FRET진단기 제작",
+    "descriptions": [
+      "115_32-2009-0006_연구동 1111호"
+    ]
+  },
+  "Other_003": {
+    "type": "Equip",
+    "alias": "Other_003_휴대형 FRET진단기 제작",
+    "descriptions": [
+      "116_32-2009-0007_연구동 1111호"
+    ]
+  },
+  "Centrifuge_023": {
+    "type": "Equip",
+    "alias": "Centrifuge_023_Microcentrifuge",
+    "descriptions": [
+      "343_32-2014-0452_연구동 1111호"
+    ]
+  },
+  "Other_004": {
+    "type": "Equip",
+    "alias": "Other_004_Pressure pump basic with 3-way Accessories",
+    "descriptions": [
+      "443_32-2016-0513_연구동1111호"
+    ]
+  },
+  "Other_005": {
+    "type": "Equip",
+    "alias": "Other_005_Pressure pump basic with 3-way Accessories",
+    "descriptions": [
+      "444_32-2016-0514_연구동1111호"
+    ]
+  },
+  "Other_006": {
+    "type": "Equip",
+    "alias": "Other_006_μEncapsulator 1 module (coaxial illumination from microscope)",
+    "descriptions": [
+      "447_32-2016-0722_연구동1111호"
+    ]
+  },
+  "Other_007": {
+    "type": "Equip",
+    "alias": "Other_007_Oil free air compressor",
+    "descriptions": [
+      "451_32-2016-0872_연구동1111호"
+    ]
+  },
+  "Other_008": {
+    "type": "Equip",
+    "alias": "Other_008_A-Line E-crimper,LithBat,20mm caps",
+    "descriptions": [
+      "2022-035_32-2022-0917_연구동1111"
+    ]
+  },
+  "Other_009": {
+    "type": "Equip",
+    "alias": "Other_009_A-Line E-decapper,LithBat,20mm caps",
+    "descriptions": [
+      "2022-036_32-2022-0918_연구동1111"
+    ]
+  },
+  "Freezer_001": {
+    "type": "Equip",
+    "alias": "Freezer_001_Enzyme 냉동고",
+    "descriptions": [
+      "***_자산번호 없음_연구동 1111호"
+    ]
+  },
+  "Autoclave_001": {
+    "type": "Equip",
+    "alias": "Autoclave_001_고압 멸균기",
+    "descriptions": [
+      "349_32-2014-0579_연구동1111"
+    ]
+  },
+  "Autoclave_002": {
+    "type": "Equip",
+    "alias": "Autoclave_002_멸균기",
+    "descriptions": [
+      "***_자산번호없음_-"
+    ]
+  },
+  "Autoclave_003": {
+    "type": "Equip",
+    "alias": "Autoclave_003_Autoclave",
+    "descriptions": [
+      "2023-012_32-2023-0345_연구동1111"
+    ]
+  },
+  "Micro Speed Vac_001": {
+    "type": "Equip",
+    "alias": "Micro Speed Vac_001_Micro speed Vac",
+    "descriptions": [
+      "186_32-2011-0527_연구동 1123호"
+    ]
+  },
+  "Micro Speed Vac_002": {
+    "type": "Equip",
+    "alias": "Micro Speed Vac_002_Micro speed Vac",
+    "descriptions": [
+      "320_32-2014-0193_연구동1111호"
+    ]
+  },
+  "Stirrer_003": {
+    "type": "Equip",
+    "alias": "Stirrer_003_Stirrers Corning",
+    "descriptions": [
+      "475_32-2018-0624_연구동 1112-1호"
+    ]
+  },
+  "Stirrer_004": {
+    "type": "Equip",
+    "alias": "Stirrer_004_Magnetic Stirrer",
+    "descriptions": [
+      "380_32-2015-0079_연구동 1112-1호"
+    ]
+  },
+  "Stirrer_005": {
+    "type": "Equip",
+    "alias": "Stirrer_005_Hot Plates and Stirrers",
+    "descriptions": [
+      "379_32-2015-0080_연구동 1112-1호"
+    ]
+  },
+  "Electrophoresis_004": {
+    "type": "Equip",
+    "alias": "Electrophoresis_004_FAS Digi Gel Imaging System",
+    "descriptions": [
+      "396_32-2015-0426_연구동1112-1호"
+    ]
+  },
+  "Electrophoresis_005": {
+    "type": "Equip",
+    "alias": "Electrophoresis_005_Blue Light LED Illuminator",
+    "descriptions": [
+      "481_32-2018-0710_연구동1112-1호"
+    ]
+  },
+  "Electrophoresis_006": {
+    "type": "Equip",
+    "alias": "Electrophoresis_006_DNA Electrophoresis System",
+    "descriptions": [
+      "513_32-2019-0246_연구동1111호"
+    ]
+  },
+  "Electrophoresis_007": {
+    "type": "Equip",
+    "alias": "Electrophoresis_007_DNA Electrophoresis System",
+    "descriptions": [
+      "514_32-2019-0247_연구동1111호"
+    ]
+  },
+  "Electrophoresis_008": {
+    "type": "Equip",
+    "alias": "Electrophoresis_008_DNA Electrophoresis System",
+    "descriptions": [
+      "515_32-2019-0248_연구동1111호"
+    ]
+  },
+  "Electrophoresis_009": {
+    "type": "Equip",
+    "alias": "Electrophoresis_009_DNA Electrophoresis System",
+    "descriptions": [
+      "516_32-2019-0249_연구동1111호"
+    ]
+  },
+  "Electrophoresis_010": {
+    "type": "Equip",
+    "alias": "Electrophoresis_010_DUALED Blue/White Transilluminator",
+    "descriptions": [
+      "2022-022_32-2022-0607_연구동1111호"
+    ]
+  },
+  "Electrophoresis_011": {
+    "type": "Equip",
+    "alias": "Electrophoresis_011_eStain Protein Staining system",
+    "descriptions": [
+      "202_32-2011-0692_연구동1112-1호"
+    ]
+  },
+  "Electrophoresis_012": {
+    "type": "Equip",
+    "alias": "Electrophoresis_012_Basic Power Supply",
+    "descriptions": [
+      "335_32-2014-0418_연구동1112-1호"
+    ]
+  },
+  "Electrophoresis_013": {
+    "type": "Equip",
+    "alias": "Electrophoresis_013_Basic Power Supply",
+    "descriptions": [
+      "336_32-2014-0419_연구동1112-1호"
+    ]
+  },
+  "Electrophoresis_014": {
+    "type": "Equip",
+    "alias": "Electrophoresis_014_Basic Power Supply",
+    "descriptions": [
+      "346_32-2014-0464_연구동1112-1호"
+    ]
+  },
+  "Electrophoresis_015": {
+    "type": "Equip",
+    "alias": "Electrophoresis_015_iBlot™ 2 System",
+    "descriptions": [
+      "512_32-2019-0250_연구동1112-1호"
+    ]
+  },
+  "Balance_001": {
+    "type": "Equip",
+    "alias": "Balance_001_미세저울",
+    "descriptions": [
+      "319_32-2014-0187_연구동1112-1호"
+    ]
+  },
+  "Balance_002": {
+    "type": "Equip",
+    "alias": "Balance_002_저울",
+    "descriptions": [
+      "***_자산번호없음_연구동1112-1호"
+    ]
+  },
+  "Drying Oven_001": {
+    "type": "Equip",
+    "alias": "Drying Oven_001_Forced Convection Oven",
+    "descriptions": [
+      "269_32-2013-0019_연구동1112-1호"
+    ]
+  },
+  "Microscope_001": {
+    "type": "Equip",
+    "alias": "Microscope_001_형광분광기",
+    "descriptions": [
+      "59_32-2005-1001_연구동 1116-2호"
+    ]
+  },
+  "Microscope_002": {
+    "type": "Equip",
+    "alias": "Microscope_002_고속 라이브 공촛점 현미경",
+    "descriptions": [
+      "80_32-2006-1027_연구동 1116-2호"
+    ]
+  },
+  "Microscope_003": {
+    "type": "Equip",
+    "alias": "Microscope_003_Objective C-Apochromat 63X W(Accessories)",
+    "descriptions": [
+      "95_32-2007-5031_연구동 1116-2호"
+    ]
+  },
+  "Microscope_004": {
+    "type": "Equip",
+    "alias": "Microscope_004_MetaMorph/MetaFluor Combo",
+    "descriptions": [
+      "96_32-2007-0374_연구동 1116-2호"
+    ]
+  },
+  "Microscope_005": {
+    "type": "Equip",
+    "alias": "Microscope_005_Cooled Digital CCD Camera",
+    "descriptions": [
+      "97_32-2007-5046_연구동 1116호"
+    ]
+  },
+  "Microscope_006": {
+    "type": "Equip",
+    "alias": "Microscope_006_다중확대 형광 현미경",
+    "descriptions": [
+      "99_32-2007-5053_연구동 1116-2호"
+    ]
+  },
+  "Microscope_007": {
+    "type": "Equip",
+    "alias": "Microscope_007_Micro-inject system",
+    "descriptions": [
+      "102_32-2008-0169_연구동 1116-2호"
+    ]
+  },
+  "Microscope_008": {
+    "type": "Equip",
+    "alias": "Microscope_008_Plase contrast Microscope",
+    "descriptions": [
+      "177_32-2011-0438_연구동 1116-2호"
+    ]
+  },
+  "Microscope_009": {
+    "type": "Equip",
+    "alias": "Microscope_009_Stereoscopic zoom microscope",
+    "descriptions": [
+      "387_32-2015-0323_연구동 1116-2호"
+    ]
+  },
+  "Microscope_010": {
+    "type": "Equip",
+    "alias": "Microscope_010_메탈할라이드 형광광원 (Illuminator HXP 120 V (D))",
+    "descriptions": [
+      "480_32-2018-0709_연구동 1116-2호"
+    ]
+  },
+  "Microscope_011": {
+    "type": "Equip",
+    "alias": "Microscope_011_Camera Axiocam 705 mono",
+    "descriptions": [
+      "2023-010_32-2023-0227_연구동1116-2호"
+    ]
+  },
+  "Microscope_012": {
+    "type": "Equip",
+    "alias": "Microscope_012_전동형광실체현미경",
+    "descriptions": [
+      "2024-**_32-2024-0574_연구동 1116-2호"
+    ]
+  },
+  "Anaerobic Culture_001": {
+    "type": "Equip",
+    "alias": "Anaerobic Culture_001_원심분리기",
+    "descriptions": [
+      "162_32-2011-0171_연구동 1116-2호"
+    ]
+  },
+  "Anaerobic Culture_002": {
+    "type": "Equip",
+    "alias": "Anaerobic Culture_002_Anaerobic Chamber",
+    "descriptions": [
+      "476_32-2018-0632_연구동1116-2호"
+    ]
+  },
+  "Anaerobic Culture_003": {
+    "type": "Equip",
+    "alias": "Anaerobic Culture_003_Anaerobic Monitor",
+    "descriptions": [
+      "486_32-2019-0016_연구동1116-2호"
+    ]
+  },
+  "Anaerobic Culture_004": {
+    "type": "Equip",
+    "alias": "Anaerobic Culture_004_Incubator Model 2000",
+    "descriptions": [
+      "2022-014_32-2022-0284_연구동1116-2호"
+    ]
+  },
+  "Other_010": {
+    "type": "Equip",
+    "alias": "Other_010_제습기",
+    "descriptions": [
+      "2022-020_32-2022-0591_연구동1116-2호"
+    ]
+  },
+  "Other_011": {
+    "type": "Equip",
+    "alias": "Other_011_제습기",
+    "descriptions": [
+      "***_자산번호없음_연구동1116-2호"
+    ]
+  },
+  "Gas Incubation_001": {
+    "type": "Equip",
+    "alias": "Gas Incubation_001_MFC controller",
+    "descriptions": [
+      "462_32-2018-0453_연구동 1116호"
+    ]
+  },
+  "Gas Incubation_002": {
+    "type": "Equip",
+    "alias": "Gas Incubation_002_MFC controller",
+    "descriptions": [
+      "498_32-2019-0066_연구동 1116호"
+    ]
+  },
+  "Gas Incubation_003": {
+    "type": "Equip",
+    "alias": "Gas Incubation_003_Vacuum Desiccator",
+    "descriptions": [
+      "2021-008_32-2021-0219_온실동"
+    ]
+  },
+  "Gas Incubation_004": {
+    "type": "Equip",
+    "alias": "Gas Incubation_004_Vacuum Desiccator",
+    "descriptions": [
+      "2021-009_32-2021-0220_연구동1116-2호"
+    ]
+  },
+  "Gas Incubation_005": {
+    "type": "Equip",
+    "alias": "Gas Incubation_005_미생물 가스 배양 항온기",
+    "descriptions": [
+      "2021-025_32-2021-0848_연구동1116호"
+    ]
+  },
+  "Cell Culture_001": {
+    "type": "Equip",
+    "alias": "Cell Culture_001_Clean Bench",
+    "descriptions": [
+      "72_32-2006-0455_연구동 1116-1호"
+    ]
+  },
+  "Cell Culture_002": {
+    "type": "Equip",
+    "alias": "Cell Culture_002_Microporator",
+    "descriptions": [
+      "85_32-2006-0591_연구동 1116-1호"
+    ]
+  },
+  "Cell Culture_003": {
+    "type": "Equip",
+    "alias": "Cell Culture_003_Inverted microscope",
+    "descriptions": [
+      "87_32-2006-1046_연구동 1116-1호"
+    ]
+  },
+  "Refrigerator_001": {
+    "type": "Equip",
+    "alias": "Refrigerator_001_냉장고",
+    "descriptions": [
+      "147_32-2010-0335_연구동 1117호"
+    ]
+  },
+  "Refrigerator_002": {
+    "type": "Equip",
+    "alias": "Refrigerator_002_냉장고",
+    "descriptions": [
+      "148_32-2010-0336_연구동 1117호"
+    ]
+  },
+  "Refrigerator_003": {
+    "type": "Equip",
+    "alias": "Refrigerator_003_냉장고",
+    "descriptions": [
+      "266_32-2012-0592_연구동 1117호"
+    ]
+  },
+  "Refrigerator_004": {
+    "type": "Equip",
+    "alias": "Refrigerator_004_냉장고",
+    "descriptions": [
+      "422_32-2015-0760_연구동 1117호"
+    ]
+  },
+  "Refrigerator_005": {
+    "type": "Equip",
+    "alias": "Refrigerator_005_냉장고",
+    "descriptions": [
+      "431_32-2016-0089_연구동 1117호"
+    ]
+  },
+  "Refrigerator_006": {
+    "type": "Equip",
+    "alias": "Refrigerator_006_냉장고",
+    "descriptions": [
+      "***_자산번호 없음_연구동 1117호"
+    ]
+  },
+  "Freezer_002": {
+    "type": "Equip",
+    "alias": "Freezer_002_냉동고",
+    "descriptions": [
+      "265_32-2012-0593_연구동 1117호"
+    ]
+  },
+  "Freezer_003": {
+    "type": "Equip",
+    "alias": "Freezer_003_냉동고",
+    "descriptions": [
+      "***_자산번호 없음_연구동 1117호"
+    ]
+  },
+  "Freezer_004": {
+    "type": "Equip",
+    "alias": "Freezer_004_냉동고",
+    "descriptions": [
+      "***_자산번호 없음_연구동 1117호"
+    ]
+  },
+  "Distillation_001": {
+    "type": "Equip",
+    "alias": "Distillation_001_Milli-Q Direct 16 System",
+    "descriptions": [
+      "316_32-2013-1096_연구동 1117호"
+    ]
+  },
+  "Ultra-low Temperature Freezer_001": {
+    "type": "Equip",
+    "alias": "Ultra-low Temperature Freezer_001_Deep Freezer",
+    "descriptions": [
+      "2023-001_32-2023-0079_연구동1117호"
+    ]
+  },
+  "Fermenter_001": {
+    "type": "Equip",
+    "alias": "Fermenter_001_Compact autoclavable Benchtop fermentor",
+    "descriptions": [
+      "260_32-2012-0556_연구동 1121호"
+    ]
+  },
+  "Fermenter_002": {
+    "type": "Equip",
+    "alias": "Fermenter_002_Compact autoclavable Benchtop fermentor",
+    "descriptions": [
+      "292_32-2013-0404_연구동1121호"
+    ]
+  },
+  "Fermenter_003": {
+    "type": "Equip",
+    "alias": "Fermenter_003_자동시료샘플링 장치",
+    "descriptions": [
+      "345_32-2014-0455_연구동1121호"
+    ]
+  },
+  "Fermenter_004": {
+    "type": "Equip",
+    "alias": "Fermenter_004_1L Fermenter",
+    "descriptions": [
+      "404_32-2015-0686_연구동1121호"
+    ]
+  },
+  "Fermenter_005": {
+    "type": "Equip",
+    "alias": "Fermenter_005_Peristaltic Pump 120U/D1",
+    "descriptions": [
+      "442_32-2016-0435_연구동1121호"
+    ]
+  },
+  "Fermenter_006": {
+    "type": "Equip",
+    "alias": "Fermenter_006_Peristaltic pump",
+    "descriptions": [
+      "484_32-2018-0777_연구동1121호"
+    ]
+  },
+  "Fermenter_007": {
+    "type": "Equip",
+    "alias": "Fermenter_007_Refrigerated Bath Circulator",
+    "descriptions": [
+      "488_32-2019-0046_연구동1121호"
+    ]
+  },
+  "Fermenter_008": {
+    "type": "Equip",
+    "alias": "Fermenter_008_Refrigerated Bath Circulator",
+    "descriptions": [
+      "551_32-2020-0186_연구동 1121호"
+    ]
+  },
+  "Fermenter_009": {
+    "type": "Equip",
+    "alias": "Fermenter_009_노트북",
+    "descriptions": [
+      "***_92-2016-0605_연구동 1121호"
+    ]
+  },
+  "Gas fermentation_001": {
+    "type": "Equip",
+    "alias": "Gas fermentation_001_CIRCULATION WATER BATH",
+    "descriptions": [
+      "61_32-2005-0015_연구동1121호"
+    ]
+  },
+  "Gas fermentation_002": {
+    "type": "Equip",
+    "alias": "Gas fermentation_002_Lab Fermentation System",
+    "descriptions": [
+      "2021-012_32-2021-0470_연구동1121호"
+    ]
+  },
+  "Gas fermentation_003": {
+    "type": "Equip",
+    "alias": "Gas fermentation_003_Peristaltic pump",
+    "descriptions": [
+      "2021-020_32-2021-0746_연구동 1121호"
+    ]
+  },
+  "Gas fermentation_004": {
+    "type": "Equip",
+    "alias": "Gas fermentation_004_Peristaltic pump",
+    "descriptions": [
+      "2021-021_32-2021-0747_연구동 1121호"
+    ]
+  },
+  "Immobilization_001": {
+    "type": "Equip",
+    "alias": "Immobilization_001_KDS Single-syringe pump",
+    "descriptions": [
+      "455_32-2017-0963_연구동1121호"
+    ]
+  },
+  "Immobilization_002": {
+    "type": "Equip",
+    "alias": "Immobilization_002_Digital Hotplate Stirrer",
+    "descriptions": [
+      "552_32-2020-0207_연구동1121호"
+    ]
+  },
+  "Immobilization_003": {
+    "type": "Equip",
+    "alias": "Immobilization_003_Digital Hotplate Stirrer",
+    "descriptions": [
+      "553_32-2020-0208_연구동1121호"
+    ]
+  },
+  "Immobilization_004": {
+    "type": "Equip",
+    "alias": "Immobilization_004_Digital Hotplate Stirrer",
+    "descriptions": [
+      "554_32-2020-0209_연구동1121호"
+    ]
+  },
+  "Immobilization_005": {
+    "type": "Equip",
+    "alias": "Immobilization_005_Digital Hotplate Stirrer",
+    "descriptions": [
+      "555_32-2020-0210_연구동1121호"
+    ]
+  },
+  "Immobilization_006": {
+    "type": "Equip",
+    "alias": "Immobilization_006_Encapsulator",
+    "descriptions": [
+      "558_32-2020-0295_연구동1121호"
+    ]
+  },
+  "Immobilization_007": {
+    "type": "Equip",
+    "alias": "Immobilization_007_pH Control System",
+    "descriptions": [
+      "562_32-2020-0677_연구동1121호"
+    ]
+  },
+  "Immobilization_008": {
+    "type": "Equip",
+    "alias": "Immobilization_008_pH Control System",
+    "descriptions": [
+      "563_32-2020-0678_연구동1121호"
+    ]
+  },
+  "Immobilization_009": {
+    "type": "Equip",
+    "alias": "Immobilization_009_Refrigerated Circulation Bath",
+    "descriptions": [
+      "2021-010_32-2021-0221_연구동1121호"
+    ]
+  },
+  "Immobilization_010": {
+    "type": "Equip",
+    "alias": "Immobilization_010_Refrigerated Circulation Bath",
+    "descriptions": [
+      "2021-011_32-2021-0222_연구동1121호"
+    ]
+  },
+  "Immobilization_011": {
+    "type": "Equip",
+    "alias": "Immobilization_011_Peristaltic pump",
+    "descriptions": [
+      "2022-009_32-2022-0187_연구동1121호"
+    ]
+  },
+  "Immobilization_012": {
+    "type": "Equip",
+    "alias": "Immobilization_012_Peristaltic pump",
+    "descriptions": [
+      "2022-010_32-2022-0188_연구동1121호"
+    ]
+  },
+  "Fume Hood_001": {
+    "type": "Equip",
+    "alias": "Fume Hood_001_Ductless Fume Hood",
+    "descriptions": [
+      "561_32-2020-0437_연구동 1121호"
+    ]
+  },
+  "Other_012": {
+    "type": "Equip",
+    "alias": "Other_012_냉방기설치",
+    "descriptions": [
+      "441_32-2016-0434_연구동 1121호"
+    ]
+  },
+  "Other_013": {
+    "type": "Equip",
+    "alias": "Other_013_제습기",
+    "descriptions": [
+      "2024-***_32-2024-0169_연구동 1121호"
+    ]
+  },
+  "Refrigerator_007": {
+    "type": "Equip",
+    "alias": "Refrigerator_007_시료보관용 냉장고",
+    "descriptions": [
+      "76_32-2006-0473_연구동 1123호"
+    ]
+  },
+  "Refrigerator_008": {
+    "type": "Equip",
+    "alias": "Refrigerator_008_시료보관용 냉장고",
+    "descriptions": [
+      "77_32-2006-0474_연구동 1123호"
+    ]
+  },
+  "Freezer_005": {
+    "type": "Equip",
+    "alias": "Freezer_005_냉동고",
+    "descriptions": [
+      "***_??_연구동 1123호"
+    ]
+  },
+  "Freezer_006": {
+    "type": "Equip",
+    "alias": "Freezer_006_냉동고",
+    "descriptions": [
+      "***_??_연구동 1123호"
+    ]
+  },
+  "Centrifuge_024": {
+    "type": "Equip",
+    "alias": "Centrifuge_024_Centrifuge 5430R, incl. rotor",
+    "descriptions": [
+      "176_32-2011-0441_연구동 1123호"
+    ]
+  },
+  "Centrifuge_025": {
+    "type": "Equip",
+    "alias": "Centrifuge_025_Centrifuge 5424 with knob",
+    "descriptions": [
+      "245_32-2012-0247_연구동 1123호"
+    ]
+  },
+  "Centrifuge_026": {
+    "type": "Equip",
+    "alias": "Centrifuge_026_냉장원심분리기(5415R)",
+    "descriptions": [
+      "272_32-2013-0037_연구동 1123호"
+    ]
+  },
+  "Centrifuge_027": {
+    "type": "Equip",
+    "alias": "Centrifuge_027_Centrifuge 5425",
+    "descriptions": [
+      "32-2023-0623_연구동 1123호"
+    ]
+  },
+  "Centrifuge_028": {
+    "type": "Equip",
+    "alias": "Centrifuge_028_Eppendorf centrifuge 5418",
+    "descriptions": [
+      "***_자산번호없음_연구동 1123호"
+    ]
+  },
+  "Centrifuge_029": {
+    "type": "Equip",
+    "alias": "Centrifuge_029_Eppendorf centrifuge 5418",
+    "descriptions": [
+      "***_자산번호없음_연구동 1123호"
+    ]
+  },
+  "Centrifuge_030": {
+    "type": "Equip",
+    "alias": "Centrifuge_030_PCR tube용 소형원심분리기",
+    "descriptions": [
+      "***_자산번호없음"
+    ]
+  },
+  "Electrophoresis_016": {
+    "type": "Equip",
+    "alias": "Electrophoresis_016_Mupid-EXu",
+    "descriptions": [
+      "154_32-2010-0470_연구동 1123호"
+    ]
+  },
+  "Electrophoresis_017": {
+    "type": "Equip",
+    "alias": "Electrophoresis_017_Mupid-exU",
+    "descriptions": [
+      "264_32-2012-0595_연구동 1123호"
+    ]
+  },
+  "Electrophoresis_018": {
+    "type": "Equip",
+    "alias": "Electrophoresis_018_Mupid-exU",
+    "descriptions": [
+      "375_32-2015-0015_연구동1123호"
+    ]
+  },
+  "Balance_003": {
+    "type": "Equip",
+    "alias": "Balance_003_Pioneer 정밀용저울",
+    "descriptions": [
+      "178_32-2011-0481_연구동 1123호"
+    ]
+  },
+  "Balance_004": {
+    "type": "Equip",
+    "alias": "Balance_004_Electronic precision balance",
+    "descriptions": [
+      "179_32-2011-0479_연구동 1123호"
+    ]
+  },
+  "Drying Oven_002": {
+    "type": "Equip",
+    "alias": "Drying Oven_002_Drying Oven",
+    "descriptions": [
+      "91_32-2007-0169_연구동 1123호"
+    ]
+  },
+  "Mixer_014": {
+    "type": "Equip",
+    "alias": "Mixer_014_Rocker",
+    "descriptions": [
+      "143_32-2010-0078_연구동 1123호"
+    ]
+  },
+  "Electroporator_001": {
+    "type": "Equip",
+    "alias": "Electroporator_001_Micropulser electroporator",
+    "descriptions": [
+      "175_32-2011-0440_연구동 1123호"
+    ]
+  },
+  "Clean Bench_004": {
+    "type": "Equip",
+    "alias": "Clean Bench_004_Bioharzard safety cabinet (clean bench)",
+    "descriptions": [
+      "242_32-2012-0169_연구동 1123호"
+    ]
+  },
+  "Thermomixer_004": {
+    "type": "Equip",
+    "alias": "Thermomixer_004_Thermomixer 5355",
+    "descriptions": [
+      "271_32-2013-0038_연구동 11123호"
+    ]
+  },
+  "Mixer_015": {
+    "type": "Equip",
+    "alias": "Mixer_015_Vortex Mixer-Genie 2",
+    "descriptions": [
+      "328_32-2014-0284_연구동 1123호"
+    ]
+  },
+  "Centrifuge_031": {
+    "type": "Equip",
+    "alias": "Centrifuge_031_Microcentrifuge",
+    "descriptions": [
+      "342_32-2014-0451_연구동 1123호"
+    ]
+  },
+  "Mixer_016": {
+    "type": "Equip",
+    "alias": "Mixer_016_Vortex Mixer-Genie 2",
+    "descriptions": [
+      "416_32-2015-0705_연구동 1123호"
+    ]
+  },
+  "Other_014": {
+    "type": "Equip",
+    "alias": "Other_014_Low Temperature Incubator",
+    "descriptions": [
+      "472_32-2018-0549_연구동 11123호"
+    ]
+  },
+  "Other_015": {
+    "type": "Equip",
+    "alias": "Other_015_공기청정기",
+    "descriptions": [
+      "496_32-2019-0059_연구동 1123호"
+    ]
+  },
+  "Spectrophotometer_005": {
+    "type": "Equip",
+    "alias": "Spectrophotometer_005_1123호실 spec",
+    "descriptions": [
+      "***_자산번호 없음?_연구동 1123호"
+    ]
+  },
+  "Bath_004": {
+    "type": "Equip",
+    "alias": "Bath_004_Water bath",
+    "descriptions": [
+      "***_자산번호없음_연구동 11123호"
+    ]
+  },
+  "Static Incubator_001": {
+    "type": "Equip",
+    "alias": "Static Incubator_001_Cooled Incubator",
+    "descriptions": [
+      "381_32-2015-0087_연구동 1127호"
+    ]
+  },
+  "Static Incubator_002": {
+    "type": "Equip",
+    "alias": "Static Incubator_002_Dual BOD Incubator",
+    "descriptions": [
+      "389_32-2015-0282_연구동 1127호"
+    ]
+  },
+  "Shaking Incubator_001": {
+    "type": "Equip",
+    "alias": "Shaking Incubator_001_Low-temperature Shaking Incubator",
+    "descriptions": [
+      "201_32-2011-0674_연구동 1127호"
+    ]
+  },
+  "Shaking Incubator_002": {
+    "type": "Equip",
+    "alias": "Shaking Incubator_002_Shaking Incubator",
+    "descriptions": [
+      "337_32-2014-0420_연구동 1127호"
+    ]
+  },
+  "Shaking Incubator_003": {
+    "type": "Equip",
+    "alias": "Shaking Incubator_003_Shaking Incubator",
+    "descriptions": [
+      "338_32-2014-0421_연구동 1127호"
+    ]
+  },
+  "Shaking Incubator_004": {
+    "type": "Equip",
+    "alias": "Shaking Incubator_004_Shaking Incubator",
+    "descriptions": [
+      "378_32-2015-0053_연구동 1127호"
+    ]
+  },
+  "Shaking Incubator_005": {
+    "type": "Equip",
+    "alias": "Shaking Incubator_005_Shaking Incubator",
+    "descriptions": [
+      "388_32-2015-0276_연구동 1127호"
+    ]
+  },
+  "Shaking Incubator_006": {
+    "type": "Equip",
+    "alias": "Shaking Incubator_006_Shaking Incubator",
+    "descriptions": [
+      "397_32-2015-0567_연구동 1127호"
+    ]
+  },
+  "Shaking Incubator_007": {
+    "type": "Equip",
+    "alias": "Shaking Incubator_007_Shaking incubator",
+    "descriptions": [
+      "474_32-2018-0589_연구동1129호"
+    ]
+  },
+  "Shaking Incubator_008": {
+    "type": "Equip",
+    "alias": "Shaking Incubator_008_Shaking Incubator",
+    "descriptions": [
+      "533_32-2019-0540_연구동 1127호"
+    ]
+  },
+  "Shaking Incubator_009": {
+    "type": "Equip",
+    "alias": "Shaking Incubator_009_Shaking incubator",
+    "descriptions": [
+      "549_32-2020-0166_연구동 1127호"
+    ]
+  },
+  "Shaking Incubator_010": {
+    "type": "Equip",
+    "alias": "Shaking Incubator_010_Shaking incubator",
+    "descriptions": [
+      "550_32-2020-0167_연구동 1127호"
+    ]
+  },
+  "Shaking Incubator_011": {
+    "type": "Equip",
+    "alias": "Shaking Incubator_011_Shaking Incubator",
+    "descriptions": [
+      "2021-001_32-2021-0010_연구동 1127호"
+    ]
+  },
+  "Shaking Incubator_012": {
+    "type": "Equip",
+    "alias": "Shaking Incubator_012_Shaking Incubator",
+    "descriptions": [
+      "2021-002_32-2021-0011_연구동 1127호"
+    ]
+  },
+  "Shaking Incubator_013": {
+    "type": "Equip",
+    "alias": "Shaking Incubator_013_Tabletop Shaking Incubator",
+    "descriptions": [
+      "2023-005_32-2023-0180_연구동 1127호"
+    ]
+  },
+  "Drying Oven_003": {
+    "type": "Equip",
+    "alias": "Drying Oven_003_Drying Oven",
+    "descriptions": [
+      "189_32-2011-0549_연구동 1127호"
+    ]
+  },
+  "Drying Oven_004": {
+    "type": "Equip",
+    "alias": "Drying Oven_004_Drying Oven",
+    "descriptions": [
+      "190_32-2011-0550_연구동 1127호"
+    ]
+  },
+  "Drying Oven_005": {
+    "type": "Equip",
+    "alias": "Drying Oven_005_드라이 오븐",
+    "descriptions": [
+      "222_32-2012-0083_연구동 1127호"
+    ]
+  },
+  "Sonicator_001": {
+    "type": "Equip",
+    "alias": "Sonicator_001_Ultrasonic processor",
+    "descriptions": [
+      "50_32-2003-0692_연구동 1127호"
+    ]
+  },
+  "Sonicator_002": {
+    "type": "Equip",
+    "alias": "Sonicator_002_Epishear sonicator with converter clamp",
+    "descriptions": [
+      "***_32-2011-0956_연구동 1127호"
+    ]
+  },
+  "Centrifuge_032": {
+    "type": "Equip",
+    "alias": "Centrifuge_032_High Speed Refrigerated Centrifuge",
+    "descriptions": [
+      "101_32-2008-0130_연구동 1127호"
+    ]
+  },
+  "Centrifuge_033": {
+    "type": "Equip",
+    "alias": "Centrifuge_033_High Speed Refrigerated Centrifuge",
+    "descriptions": [
+      "273_32-2013-0075_연구동 1127호"
+    ]
+  },
+  "Refrigerator_009": {
+    "type": "Equip",
+    "alias": "Refrigerator_009_냉장고",
+    "descriptions": [
+      "372_32-2015-0012_연구동 1127호"
+    ]
+  },
+  "PCR_001": {
+    "type": "Equip",
+    "alias": "PCR_001_C1000 Thermal cycler Touch",
+    "descriptions": [
+      "198_32-2011-0643_연구동 1129호"
+    ]
+  },
+  "PCR_002": {
+    "type": "Equip",
+    "alias": "PCR_002_C1000 touch 48/48 PCR(행사가)",
+    "descriptions": [
+      "209_32-2011-0745_연구동 1129호"
+    ]
+  },
+  "PCR_003": {
+    "type": "Equip",
+    "alias": "PCR_003_PCR Machine",
+    "descriptions": [
+      "393_32-2015-0359_연구동 1129호"
+    ]
+  },
+  "PCR_004": {
+    "type": "Equip",
+    "alias": "PCR_004_Mastercycler Pro S(PCR machine)",
+    "descriptions": [
+      "***_32-2013-0785_연구동 1129호"
+    ]
+  },
+  "PCR_005": {
+    "type": "Equip",
+    "alias": "PCR_005_bio-rad PCR",
+    "descriptions": [
+      "***_자산번호 없음_연구동 1129호"
+    ]
+  },
+  "PCR_006": {
+    "type": "Equip",
+    "alias": "PCR_006_bio-rad PCR",
+    "descriptions": [
+      "***_자산번호 없음_연구동 1129호"
+    ]
+  },
+  "PCR_007": {
+    "type": "Equip",
+    "alias": "PCR_007_C1000 48/48 dual PCR system",
+    "descriptions": [
+      "2022-011_32-2022-0202_연구동 1129호"
+    ]
+  },
+  "Protein Purification_001": {
+    "type": "Equip",
+    "alias": "Protein Purification_001_단백질 정제 시스템",
+    "descriptions": [
+      "358_32-2014-0949_연구동1129호"
+    ]
+  },
+  "Protein Purification_002": {
+    "type": "Equip",
+    "alias": "Protein Purification_002_NGC QUEST 10 Chromatography System",
+    "descriptions": [
+      "2021-016_32-2021-0547_연구동1129호"
+    ]
+  },
+  "Protein Purification_003": {
+    "type": "Equip",
+    "alias": "Protein Purification_003_노트북",
+    "descriptions": [
+      "***_92-2021-0666_연구동 1129호"
+    ]
+  },
+  "Thermomixer_005": {
+    "type": "Equip",
+    "alias": "Thermomixer_005_ThermoMixer C(행사가)",
+    "descriptions": [
+      "350_32-2014-0588_연구동 1129호"
+    ]
+  },
+  "Thermomixer_006": {
+    "type": "Equip",
+    "alias": "Thermomixer_006_ThermoMixer C(행사가)",
+    "descriptions": [
+      "351_32-2014-0589_연구동 1129호"
+    ]
+  },
+  "Thermomixer_007": {
+    "type": "Equip",
+    "alias": "Thermomixer_007_ThermoMixer C",
+    "descriptions": [
+      "385_32-2015-0230_연구동 1129호"
+    ]
+  },
+  "FACS_001": {
+    "type": "Equip",
+    "alias": "FACS_001_초고속 자동 유세포 분석기",
+    "descriptions": [
+      "310_32-2013-5019_연구동1201호"
+    ]
+  },
+  "FACS_002": {
+    "type": "Equip",
+    "alias": "FACS_002_ACDU_FACS Aria Field Upgrade",
+    "descriptions": [
+      "357_32-2014-0761_연구동1201호"
+    ]
+  },
+  "FACS_003": {
+    "type": "Equip",
+    "alias": "FACS_003_BD FACSAria Aerosol Mgmt Option 120V",
+    "descriptions": [
+      "356_32-2014-0762_연구동1201호"
+    ]
+  },
+  "Victor_001": {
+    "type": "Equip",
+    "alias": "Victor_001_Multilabel plate reader",
+    "descriptions": [
+      "105_32-2008-0293_연구동 1129호"
+    ]
+  },
+  "Victor_002": {
+    "type": "Equip",
+    "alias": "Victor_002_Injector Module with two injectors",
+    "descriptions": [
+      "111_32-2008-0377_연구동 1129호"
+    ]
+  },
+  "Victor_003": {
+    "type": "Equip",
+    "alias": "Victor_003_Monitor",
+    "descriptions": [
+      "***_92-2015-0745_연구동 1129호"
+    ]
+  },
+  "Tecan_001": {
+    "type": "Equip",
+    "alias": "Tecan_001_흡광 형광 분석기",
+    "descriptions": [
+      "391_32-2015-0326_연구동 1129호"
+    ]
+  },
+  "Tecan_002": {
+    "type": "Equip",
+    "alias": "Tecan_002_노트북",
+    "descriptions": [
+      "***_92-2022-1509_연구동 1129호"
+    ]
+  },
+  "Refrigerator_010": {
+    "type": "Equip",
+    "alias": "Refrigerator_010_냉장고",
+    "descriptions": [
+      "2022-001_32-2022-0047_연구동 1129호"
+    ]
+  },
+  "Centrifuge_034": {
+    "type": "Equip",
+    "alias": "Centrifuge_034_PCR tube용 소형원심분리기",
+    "descriptions": [
+      "***_자산번호없음_연구동 1129호"
+    ]
+  },
+  "LC&LCMS_001": {
+    "type": "Equip",
+    "alias": "LC&LCMS_001_고성능 액체크로마토그래피",
+    "descriptions": [
+      "294_32-2013-0415_연구동 1130호"
+    ]
+  },
+  "LC&LCMS_002": {
+    "type": "Equip",
+    "alias": "LC&LCMS_002_액체 질량 분석기",
+    "descriptions": [
+      "312_32-2013-5021_연구동 1130호"
+    ]
+  },
+  "LC&LCMS_003": {
+    "type": "Equip",
+    "alias": "LC&LCMS_003_액체질소용기",
+    "descriptions": [
+      "315_32-2013-1084_연구동 1130호"
+    ]
+  },
+  "LC&LCMS_004": {
+    "type": "Equip",
+    "alias": "LC&LCMS_004_액체질소용기",
+    "descriptions": [
+      "317_32-2014-0029_연구동 1130호"
+    ]
+  },
+  "LC&LCMS_005": {
+    "type": "Equip",
+    "alias": "LC&LCMS_005_nitrogen storage Tank",
+    "descriptions": [
+      "84_32-2006-0556_연구동 1111호"
+    ]
+  },
+  "LC&LCMS_006": {
+    "type": "Equip",
+    "alias": "LC&LCMS_006_고속액체 크로마토그래피",
+    "descriptions": [
+      "300_32-2013-0685_연구동 1130호"
+    ]
+  },
+  "LC&LCMS_007": {
+    "type": "Equip",
+    "alias": "LC&LCMS_007_UV Detector",
+    "descriptions": [
+      "477_32-2018-0697_연구동 1130호"
+    ]
+  },
+  "LC&LCMS_008": {
+    "type": "Equip",
+    "alias": "LC&LCMS_008_Thermostat",
+    "descriptions": [
+      "2021-005_32-2021-0125_연구동1130호"
+    ]
+  },
+  "LC&LCMS_009": {
+    "type": "Equip",
+    "alias": "LC&LCMS_009_HPLC system",
+    "descriptions": [
+      "523_32-2019-0435_연구동 1130호"
+    ]
+  },
+  "LC&LCMS_010": {
+    "type": "Equip",
+    "alias": "LC&LCMS_010_Infinity II Refractive Index Detector",
+    "descriptions": [
+      "578_32-2020-0910_연구동 1130호"
+    ]
+  },
+  "GC&GCMS_001": {
+    "type": "Equip",
+    "alias": "GC&GCMS_001_가스 크로마토그래피",
+    "descriptions": [
+      "293_32-2013-0416_연구동 1130호"
+    ]
+  },
+  "GC&GCMS_002": {
+    "type": "Equip",
+    "alias": "GC&GCMS_002_가스 질량 분석기",
+    "descriptions": [
+      "311_32-2013-5020_연구동 1130호"
+    ]
+  },
+  "GC&GCMS_003": {
+    "type": "Equip",
+    "alias": "GC&GCMS_003_무정전전원공급장치(UPS)",
+    "descriptions": [
+      "340_32-2014-0440_연구동 1130호"
+    ]
+  },
+  "GC&GCMS_004": {
+    "type": "Equip",
+    "alias": "GC&GCMS_004_GC System(가스크로마토그래프 시스템)",
+    "descriptions": [
+      "2022-017_32-2022-0419_연구동1130호"
+    ]
+  },
+  "GC&GCMS_005": {
+    "type": "Equip",
+    "alias": "GC&GCMS_005_조립PC",
+    "descriptions": [
+      "***_92-2019-0088_연구동 1130호"
+    ]
+  },
+  "GC&GCMS_006": {
+    "type": "Equip",
+    "alias": "GC&GCMS_006_OpenLab CDS Workstation PC Bundle",
+    "descriptions": [
+      "***_92-2022-0679_연구동 1130호"
+    ]
+  },
+  "Distillation_002": {
+    "type": "Equip",
+    "alias": "Distillation_002_Refrigerated & Heating Bath Circulator",
+    "descriptions": [
+      "423_32-2015-0876_연구동1121호"
+    ]
+  },
+  "Distillation_003": {
+    "type": "Equip",
+    "alias": "Distillation_003_Vacuum Regulation System",
+    "descriptions": [
+      "454_32-2017-0821_연구동 1130호"
+    ]
+  },
+  "Distillation_004": {
+    "type": "Equip",
+    "alias": "Distillation_004_Heating mantle Stirrer",
+    "descriptions": [
+      "2022-016_32-2022-0320_연구동 1130호"
+    ]
+  },
+  "Housing_001": {
+    "type": "Equip",
+    "alias": "Housing_001_Automated Multiple Dispenser System",
+    "descriptions": [
+      "2021-022_32-2021-0790_연구동1201호"
+    ]
+  },
+  "Housing_002": {
+    "type": "Equip",
+    "alias": "Housing_002_Automated NGS Library Preparation System",
+    "descriptions": [
+      "2022-004_32-2022-0075_연구동1201호"
+    ]
+  },
+  "Housing_003": {
+    "type": "Equip",
+    "alias": "Housing_003_나노액체분주기(Tip-less Nano-liter Liquid Handler)",
+    "descriptions": [
+      "2022-027_32-2022-0732_연구동1201호"
+    ]
+  },
+  "Housing_004": {
+    "type": "Equip",
+    "alias": "Housing_004_Automated PCR System(Trobot II 96 SG)",
+    "descriptions": [
+      "2022-031_32-2022-0994_연구동1201호"
+    ]
+  },
+  "Housing_005": {
+    "type": "Equip",
+    "alias": "Housing_005_Automated PCR System(Trobot II 96 SG)",
+    "descriptions": [
+      "2022-032_32-2022-0995_연구동1201호"
+    ]
+  },
+  "Housing_006": {
+    "type": "Equip",
+    "alias": "Housing_006_Automated PCR System(Trobot II 96 SG)",
+    "descriptions": [
+      "2022-033_32-2022-0996_연구동1201호"
+    ]
+  },
+  "Housing_007": {
+    "type": "Equip",
+    "alias": "Housing_007_Automated PCR System(Trobot II 96 SG)",
+    "descriptions": [
+      "2022-034_32-2022-0997_연구동1201호"
+    ]
+  },
+  "Housing_008": {
+    "type": "Equip",
+    "alias": "Housing_008_자동 플레이트 핸들링 로봇암 시스템",
+    "descriptions": [
+      "2023-004_32-2023-135_연구동1201호"
+    ]
+  },
+  "Housing_009": {
+    "type": "Equip",
+    "alias": "Housing_009_전자동 전기영동시스템",
+    "descriptions": [
+      "2023-013_32-2023-0391_연구동1201호"
+    ]
+  },
+  "Housing_010": {
+    "type": "Equip",
+    "alias": "Housing_010_자동마이크로플레이트 저장소",
+    "descriptions": [
+      "2023-014_32-2023-0472_연구동1201호"
+    ]
+  },
+  "Housing_011": {
+    "type": "Equip",
+    "alias": "Housing_011_자동샘플저장시스템STX44-HC",
+    "descriptions": [
+      "2023-015_32-2023-0473_연구동1201호"
+    ]
+  },
+  "Housing_012": {
+    "type": "Equip",
+    "alias": "Housing_012_IntelliXcap Automated Screw Cap Decapper",
+    "descriptions": [
+      "2023-016_32-2023-0474_연구동1201호"
+    ]
+  },
+  "Housing_013": {
+    "type": "Equip",
+    "alias": "Housing_013_Automated Plate Stacker System",
+    "descriptions": [
+      "2023-017_32-2023-0475_연구동1201호"
+    ]
+  },
+  "Housing_014": {
+    "type": "Equip",
+    "alias": "Housing_014_플레이트 자동 봉합기",
+    "descriptions": [
+      "2024-***_32-2024-****_연구동1201호"
+    ]
+  },
+  "Housing_015": {
+    "type": "Equip",
+    "alias": "Housing_015_플레이트 자동 봉합제거기",
+    "descriptions": [
+      "2024-***_32-2024-****_연구동1201호"
+    ]
+  },
+  "Housing_016": {
+    "type": "Equip",
+    "alias": "Housing_016_자동화장비 모니터링 시스템",
+    "descriptions": [
+      "2023-011_32-2023-0229_연구동1201호"
+    ]
+  },
+  "Robot Arm Monitoring_001": {
+    "type": "Equip",
+    "alias": "Robot Arm Monitoring_001_MONITOR",
+    "descriptions": [
+      "2023-006_32-2023-0191_연구동1201호"
+    ]
+  },
+  "Robot Arm Monitoring_002": {
+    "type": "Equip",
+    "alias": "Robot Arm Monitoring_002_MONITOR",
+    "descriptions": [
+      "2023-007_32-2023-0192_연구동1201호"
+    ]
+  },
+  "Robot Arm Monitoring_003": {
+    "type": "Equip",
+    "alias": "Robot Arm Monitoring_003_MONITOR",
+    "descriptions": [
+      "2023-008_32-2023-0193_연구동1201호"
+    ]
+  },
+  "Robot Arm Monitoring_004": {
+    "type": "Equip",
+    "alias": "Robot Arm Monitoring_004_MONITOR",
+    "descriptions": [
+      "2023-009_32-2023-0194_연구동1201호"
+    ]
+  },
+  "Sequencer_001": {
+    "type": "Equip",
+    "alias": "Sequencer_001_iSeq100 Bench-Top Sequencing System",
+    "descriptions": [
+      "556_32-2020-0275_연구동1201호"
+    ]
+  },
+  "Sequencer_002": {
+    "type": "Equip",
+    "alias": "Sequencer_002_GridIon [rent]",
+    "descriptions": [
+      "***_자산번호없음"
+    ]
+  },
+  "3D Printer_001": {
+    "type": "Equip",
+    "alias": "3D Printer_001_얼티메이커2(필라멘트 2ea포함)",
+    "descriptions": [
+      "359_92-2014-0610_연구동1201호"
+    ]
+  },
+  "3D Printer_002": {
+    "type": "Equip",
+    "alias": "3D Printer_002_얼티메이커3",
+    "descriptions": [
+      "460_92-2018-0291_연구동1201호"
+    ]
+  },
+  "3D Printer_003": {
+    "type": "Equip",
+    "alias": "3D Printer_003_이동형 유해가스 정화기",
+    "descriptions": [
+      "520_32-2019-0311_연구동1201호"
+    ]
+  },
+  "3D Printer_004": {
+    "type": "Equip",
+    "alias": "3D Printer_004_3-D Printer [rent]",
+    "descriptions": [
+      "2022-***_자산번호없음_연구동1201호"
+    ]
+  },
+  "3D Printer_005": {
+    "type": "Equip",
+    "alias": "3D Printer_005_서버 [rent]",
+    "descriptions": [
+      "2022-***_자산번호없음_연구동1201호"
+    ]
+  },
+  "Centrifuge_035": {
+    "type": "Equip",
+    "alias": "Centrifuge_035_Table-top Centrifuge",
+    "descriptions": [
+      "274_32-2013-0186_연구동 1111호"
+    ]
+  },
+  "Centrifuge_036": {
+    "type": "Equip",
+    "alias": "Centrifuge_036_Centrifuge MiniSpin",
+    "descriptions": [
+      "2021-006_32-2021-0133_연구동1201호"
+    ]
+  },
+  "Centrifuge_037": {
+    "type": "Equip",
+    "alias": "Centrifuge_037_Microcentrifuge",
+    "descriptions": [
+      "2023-003_32-2023-0105_연구동1201호"
+    ]
+  },
+  "Centrifuge_038": {
+    "type": "Equip",
+    "alias": "Centrifuge_038_PCR tube용 소형원심분리기",
+    "descriptions": [
+      "***_자산번호없음_연구동1201호"
+    ]
+  },
+  "Autoclave_004": {
+    "type": "Equip",
+    "alias": "Autoclave_004_Autoclave",
+    "descriptions": [
+      "205_32-2011-0713_연구동 1116호"
+    ]
+  },
+  "Other_016": {
+    "type": "Equip",
+    "alias": "Other_016_CFX Connect RealTime PCR Detection system",
+    "descriptions": [
+      "216_32-2011-0872_연구동1201호"
+    ]
+  },
+  "Other_017": {
+    "type": "Equip",
+    "alias": "Other_017_Biological Resources Strorage Management System",
+    "descriptions": [
+      "285_32-2013-0284_연구동1129호"
+    ]
+  },
+  "Shaking Incubator_014": {
+    "type": "Equip",
+    "alias": "Shaking Incubator_014_진탕배양기",
+    "descriptions": [
+      "382_32-2015-0179_연구동 1129호"
+    ]
+  },
+  "Thermomixer_008": {
+    "type": "Equip",
+    "alias": "Thermomixer_008_ThermoMixer C",
+    "descriptions": [
+      "386_32-2015-0231_연구동 1201호"
+    ]
+  },
+  "Other_018": {
+    "type": "Equip",
+    "alias": "Other_018_Automated Centrifugal DNA/RNA Extractor System",
+    "descriptions": [
+      "500_32-2019-0079_연구동1201호"
+    ]
+  },
+  "Other_019": {
+    "type": "Equip",
+    "alias": "Other_019_Qubit 4 NGS Starter Kit",
+    "descriptions": [
+      "521_32-2019-0313_연구동1111호"
+    ]
+  },
+  "Other_020": {
+    "type": "Equip",
+    "alias": "Other_020_Multi-funtional Microplate Reader",
+    "descriptions": [
+      "522_32-2019-0430_연구동1201호"
+    ]
+  },
+  "Other_021": {
+    "type": "Equip",
+    "alias": "Other_021_6-axis robot arm",
+    "descriptions": [
+      "2021-013_32-2021-0477_연구동1201호"
+    ]
+  },
+  "Other_022": {
+    "type": "Equip",
+    "alias": "Other_022_Peristaltic pump",
+    "descriptions": [
+      "2021-014_32-2021-0480_연구동1121호"
+    ]
+  },
+  "Other_023": {
+    "type": "Equip",
+    "alias": "Other_023_Peristaltic pump",
+    "descriptions": [
+      "2021-015_32-2021-0481_연구동1121호"
+    ]
+  },
+  "Refrigerator_011": {
+    "type": "Equip",
+    "alias": "Refrigerator_011_냉장고",
+    "descriptions": [
+      "2021-019_32-2021-0702_연구동1201호"
+    ]
+  },
+  "Other_024": {
+    "type": "Equip",
+    "alias": "Other_024_소형 액체핸들링 로봇",
+    "descriptions": [
+      "2021-023_32-2021-0806_연구동1201호"
+    ]
+  },
+  "Other_025": {
+    "type": "Equip",
+    "alias": "Other_025_전류제어UPS",
+    "descriptions": [
+      "2021-024_32-2021-0808_연구동1201호"
+    ]
+  },
+  "Other_026": {
+    "type": "Equip",
+    "alias": "Other_026_에이블랩스 자동화장비",
+    "descriptions": [
+      "2021-026_-_연구동1201호"
+    ]
+  },
+  "Ultra-low Temperature Freezer_002": {
+    "type": "Equip",
+    "alias": "Ultra-low Temperature Freezer_002_초저온 냉동고",
+    "descriptions": [
+      "2022-002_32-2022-0062_연구동1201호"
+    ]
+  },
+  "Other_027": {
+    "type": "Equip",
+    "alias": "Other_027_CLEANTEC CTL MIDI 이동식 집진기",
+    "descriptions": [
+      "2022-006_32-2022-0105_연구동1201호"
+    ]
+  },
+  "Other_028": {
+    "type": "Equip",
+    "alias": "Other_028_자동화 DNA 회수장치(Blue Pippin Instrument)",
+    "descriptions": [
+      "2022-012_32-2022-0203_연구동1201호"
+    ]
+  },
+  "Clean bench_005": {
+    "type": "Equip",
+    "alias": "Clean bench_005_Biological Safety Cabinet",
+    "descriptions": [
+      "2022-015_32-2022-0295_연구동1201호"
+    ]
+  },
+  "Ultra-low Temperature Freezer_003": {
+    "type": "Equip",
+    "alias": "Ultra-low Temperature Freezer_003_Ultra-low Temperature Freezer",
+    "descriptions": [
+      "161_32-2011-0159_연구동지하"
+    ]
+  },
+  "Ultra-low Temperature Freezer_004": {
+    "type": "Equip",
+    "alias": "Ultra-low Temperature Freezer_004_Ultra Low Freezer",
+    "descriptions": [
+      "207_32-2011-0724_연구동지하"
+    ]
+  },
+  "Ultra-low Temperature Freezer_005": {
+    "type": "Equip",
+    "alias": "Ultra-low Temperature Freezer_005_CryoCube",
+    "descriptions": [
+      "534_32-2019-0606_연구동지하"
+    ]
+  },
+  "Pipette_001": {
+    "type": "Equip",
+    "alias": "Pipette_001_2.5P pipette",
+    "descriptions": []
+  },
+  "Pipette_002": {
+    "type": "Equip",
+    "alias": "Pipette_002_10P pipette",
+    "descriptions": []
+  },
+  "Pipette_003": {
+    "type": "Equip",
+    "alias": "Pipette_003_20P pipette",
+    "descriptions": []
+  },
+  "Pipette_004": {
+    "type": "Equip",
+    "alias": "Pipette_004_100P pipette",
+    "descriptions": []
+  },
+  "Pipette_005": {
+    "type": "Equip",
+    "alias": "Pipette_005_200P pipette",
+    "descriptions": []
+  },
+  "Pipette_006": {
+    "type": "Equip",
+    "alias": "Pipette_006_1000P pipette",
+    "descriptions": []
+  },
+  "Multi-channel Pipette_001": {
+    "type": "Equip",
+    "alias": "Multi-channel Pipette_001_8 channel 10P pipette",
+    "descriptions": []
+  },
+  "Multi-channel Pipette_002": {
+    "type": "Equip",
+    "alias": "Multi-channel Pipette_002_12 channel 100P pipette",
+    "descriptions": []
+  },
+  "Electronic Multi-channel Pipette_001": {
+    "type": "Equip",
+    "alias": "Electronic Multi-channel Pipette_001_electronic 8 channel 12.5P pipette",
+    "descriptions": []
+  },
+  "Electronic Multi-channel Pipette_002": {
+    "type": "Equip",
+    "alias": "Electronic Multi-channel Pipette_002_electronic 12 channel 12.5P pipette",
+    "descriptions": []
+  },
+  "Electronic Multi-channel Pipette_003": {
+    "type": "Equip",
+    "alias": "Electronic Multi-channel Pipette_003_electronic 8 channel 300P pipette",
+    "descriptions": []
+  },
+  "Electronic Multi-channel Pipette_004": {
+    "type": "Equip",
+    "alias": "Electronic Multi-channel Pipette_004_electronic 12 channel 300P pipette",
+    "descriptions": []
+  },
+  "Electronic Multi-channel Pipette_005": {
+    "type": "Equip",
+    "alias": "Electronic Multi-channel Pipette_005_electronic 12 channel 1250P pipette",
+    "descriptions": []
+  },
+  "Dispenser_001": {
+    "type": "Equip",
+    "alias": "Dispenser_001_dispenser",
+    "descriptions": []
+  },
+  "Pipet Aid_001": {
+    "type": "Equip",
+    "alias": "Pipet Aid_001_pipet aid",
+    "descriptions": []
+  },
+  "Mixer_017": {
+    "type": "Equip",
+    "alias": "Mixer_017_hula mixer",
+    "descriptions": []
+  },
+  "Bucket_001": {
+    "type": "Equip",
+    "alias": "Bucket_001_1L bucket",
+    "descriptions": []
+  },
+  "Bucket_002": {
+    "type": "Equip",
+    "alias": "Bucket_002_5L bucket",
+    "descriptions": []
+  },
+  "Mess Cylinder_001": {
+    "type": "Equip",
+    "alias": "Mess Cylinder_001_25mL mess cylinder",
+    "descriptions": []
+  },
+  "Mess Cylinder_002": {
+    "type": "Equip",
+    "alias": "Mess Cylinder_002_50mL mess cylinder",
+    "descriptions": []
+  },
+  "Mess Cylinder_003": {
+    "type": "Equip",
+    "alias": "Mess Cylinder_003_100mL mess cylinder",
+    "descriptions": []
+  },
+  "Mess Cylinder_004": {
+    "type": "Equip",
+    "alias": "Mess Cylinder_004_250mL mess cylinder",
+    "descriptions": []
+  },
+  "Mess Cylinder_005": {
+    "type": "Equip",
+    "alias": "Mess Cylinder_005_500mL mess cylinder",
+    "descriptions": []
+  },
+  "Mess Cylinder_006": {
+    "type": "Equip",
+    "alias": "Mess Cylinder_006_1L mess cylinder",
+    "descriptions": []
+  },
+  "Mess Cylinder_007": {
+    "type": "Equip",
+    "alias": "Mess Cylinder_007_2L mess cylinder",
+    "descriptions": []
+  },
+  "Beaker_001": {
+    "type": "Equip",
+    "alias": "Beaker_001_100mL beaker",
+    "descriptions": []
+  },
+  "Beaker_002": {
+    "type": "Equip",
+    "alias": "Beaker_002_250mL beaker",
+    "descriptions": []
+  },
+  "Beaker_003": {
+    "type": "Equip",
+    "alias": "Beaker_003_1L beaker",
+    "descriptions": []
+  },
+  "Beaker_004": {
+    "type": "Equip",
+    "alias": "Beaker_004_2L beaker",
+    "descriptions": []
+  },
+  "Flask_001": {
+    "type": "Equip",
+    "alias": "Flask_001_125mL unbaffled flask",
+    "descriptions": []
+  },
+  "Flask_002": {
+    "type": "Equip",
+    "alias": "Flask_002_125mL baffled flask",
+    "descriptions": []
+  },
+  "Flask_003": {
+    "type": "Equip",
+    "alias": "Flask_003_250mL unbaffled flask",
+    "descriptions": []
+  },
+  "Flask_004": {
+    "type": "Equip",
+    "alias": "Flask_004_250mL baffled flask",
+    "descriptions": []
+  },
+  "Flask_005": {
+    "type": "Equip",
+    "alias": "Flask_005_500mL unbaffled flask",
+    "descriptions": []
+  },
+  "Flask_006": {
+    "type": "Equip",
+    "alias": "Flask_006_500mL baffled flask",
+    "descriptions": []
+  },
+  "Flask_007": {
+    "type": "Equip",
+    "alias": "Flask_007_1L unbaffled flask",
+    "descriptions": []
+  },
+  "Flask_008": {
+    "type": "Equip",
+    "alias": "Flask_008_1L baffled flask",
+    "descriptions": []
+  },
+  "Flask_009": {
+    "type": "Equip",
+    "alias": "Flask_009_2L unbaffled flask",
+    "descriptions": []
+  },
+  "Flask_010": {
+    "type": "Equip",
+    "alias": "Flask_010_2L baffled flask",
+    "descriptions": []
+  },
+  "Flask_011": {
+    "type": "Equip",
+    "alias": "Flask_011_5L baffled flask",
+    "descriptions": []
+  },
+  "Bottle_001": {
+    "type": "Equip",
+    "alias": "Bottle_001_250mL bottle",
+    "descriptions": []
+  },
+  "Bottle_002": {
+    "type": "Equip",
+    "alias": "Bottle_002_500mL bottle",
+    "descriptions": []
+  },
+  "Bottle_003": {
+    "type": "Equip",
+    "alias": "Bottle_003_1L bottle",
+    "descriptions": []
+  },
+  "Centrifuge Bottle_001": {
+    "type": "Equip",
+    "alias": "Centrifuge Bottle_001_250mL centrifuge bottle",
+    "descriptions": []
+  },
+  "Centrifuge Bottle_002": {
+    "type": "Equip",
+    "alias": "Centrifuge Bottle_002_500mL centrifuge bottle",
+    "descriptions": []
+  },
+  "Centrifuge Bottle_003": {
+    "type": "Equip",
+    "alias": "Centrifuge Bottle_003_1L centrifuge bottle",
+    "descriptions": []
+  },
+  "Other_029": {
+    "type": "Equip",
+    "alias": "Other_029_weighing dish",
+    "descriptions": []
+  },
+  "Other_030": {
+    "type": "Equip",
+    "alias": "Other_030_measuring spoon",
+    "descriptions": []
+  },
+  "Other_031": {
+    "type": "Equip",
+    "alias": "Other_031_magnetic bar",
+    "descriptions": []
+  },
+  "Other_032": {
+    "type": "Equip",
+    "alias": "Other_032_silicone stopper",
+    "descriptions": []
+  },
+  "Other_033": {
+    "type": "Equip",
+    "alias": "Other_033_rack",
+    "descriptions": []
+  },
+  "Other_034": {
+    "type": "Equip",
+    "alias": "Other_034_magnetic stand",
+    "descriptions": []
+  },
+  "Other_035": {
+    "type": "Equip",
+    "alias": "Other_035_96 well magnetic rack",
+    "descriptions": []
+  },
+  "Other_036": {
+    "type": "Equip",
+    "alias": "Other_036_stock box",
+    "descriptions": []
+  },
+  "Other_037": {
+    "type": "Equip",
+    "alias": "Other_037_gel tray",
+    "descriptions": []
+  },
+  "Other_038": {
+    "type": "Equip",
+    "alias": "Other_038_comb",
+    "descriptions": []
+  },
+  "Other_039": {
+    "type": "Equip",
+    "alias": "Other_039_mess",
+    "descriptions": []
+  },
+  "Other_040": {
+    "type": "Equip",
+    "alias": "Other_040_sealing film roller",
+    "descriptions": []
+  },
+  "Other_041": {
+    "type": "Equip",
+    "alias": "Other_041_floater",
+    "descriptions": []
+  },
+  "Other_042": {
+    "type": "Equip",
+    "alias": "Other_042_-20℃ mini cooler",
+    "descriptions": []
+  },
+  "Other_043": {
+    "type": "Equip",
+    "alias": "Other_043_ice",
+    "descriptions": []
+  },
+  "Other_044": {
+    "type": "Equip",
+    "alias": "Other_044_ice bucket",
+    "descriptions": []
+  },
+  "Other_045": {
+    "type": "Equip",
+    "alias": "Other_045_counterbalance",
+    "descriptions": []
+  },
+  "Other_046": {
+    "type": "Equip",
+    "alias": "Other_046_Bunsen burner",
+    "descriptions": []
+  },
+  "Other_047": {
+    "type": "Equip",
+    "alias": "Other_047_waste bottle",
+    "descriptions": []
+  },
+  "Other_048": {
+    "type": "Equip",
+    "alias": "Other_048_heat-resistant gloves",
+    "descriptions": []
+  },
+  "Other_049": {
+    "type": "Equip",
+    "alias": "Other_049_cryogenic gloves",
+    "descriptions": []
+  }
+}
